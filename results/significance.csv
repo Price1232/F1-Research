@@ -1,0 +1,6 @@
+Comparison,t_stat,p_value,Significant
+GBM vs Naive (compound mean),-12.8928,0.0,True
+GBM vs Linear Regression,-7.0786,0.0,True
+GBM vs Ridge Regression,-6.9989,0.0,True
+GBM vs Random Forest,-5.8705,0.0,True
+GBM vs XGBoost,0.1092,0.9138,False

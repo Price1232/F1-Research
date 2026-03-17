@@ -1,0 +1,7 @@
+Circuit,All_Models_Agree,Rec_Linear_Regression,Rec_Ridge_Regression,Rec_Random_Forest,Rec_Gradient_Boosting,Rec_XGBoost
+Bahrain Grand Prix,False,Stay Out,Stay Out,Early 1-Stop,Early 1-Stop,Early 1-Stop
+Spanish Grand Prix,True,Early 1-Stop,Early 1-Stop,Early 1-Stop,Early 1-Stop,Early 1-Stop
+British Grand Prix,True,Stay Out,Stay Out,Stay Out,Stay Out,Stay Out
+Italian Grand Prix,True,Stay Out,Stay Out,Stay Out,Stay Out,Stay Out
+Monaco Grand Prix,False,Early 1-Stop,Early 1-Stop,Stay Out,Stay Out,Stay Out
+Hungarian Grand Prix,False,2-Stop,2-Stop,Mid 1-Stop,Late 1-Stop,Late 1-Stop

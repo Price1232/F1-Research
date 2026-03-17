@@ -1,0 +1,7 @@
+Model,MAE_mean,MAE_std,RMSE_mean,RMSE_std,R2_mean,R2_std
+XGBoost,0.7437,0.1885,1.9732,0.9271,0.8568,0.1027
+Gradient Boosting,0.7441,0.1877,1.9718,0.9179,0.8559,0.1061
+Random Forest,0.8395,0.226,2.1949,0.9528,0.8326,0.1032
+Ridge Regression,2.3468,1.3851,4.6957,2.562,0.3231,0.2897
+Linear Regression,2.3722,1.392,4.684,2.5584,0.3262,0.2886
+Naive (compound mean),2.4848,0.7229,5.8107,2.2029,-0.0257,0.0357

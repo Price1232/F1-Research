@@ -1,0 +1,1081 @@
+Circuit,Model,Sigma,Snap_pct,Snap_lap,Flip_rate,Mean_time_delta_s,Baseline_rec,Baseline_delta_s
+Bahrain Grand Prix,Linear Regression,0.0,0.25,14,0.0,28.4692,Stay Out,28.4692
+Bahrain Grand Prix,Linear Regression,0.0,0.35,19,0.0,30.2216,Stay Out,30.2216
+Bahrain Grand Prix,Linear Regression,0.0,0.45,25,0.0,31.974,Stay Out,31.974
+Bahrain Grand Prix,Linear Regression,0.0,0.55,31,0.0,32.7956,Stay Out,32.7956
+Bahrain Grand Prix,Linear Regression,0.0,0.65,37,0.0,31.0612,Stay Out,31.0612
+Bahrain Grand Prix,Linear Regression,0.1,0.25,14,0.0,28.6488,Stay Out,28.4692
+Bahrain Grand Prix,Linear Regression,0.1,0.35,19,0.0,30.1744,Stay Out,30.2216
+Bahrain Grand Prix,Linear Regression,0.1,0.45,25,0.0,31.7809,Stay Out,31.974
+Bahrain Grand Prix,Linear Regression,0.1,0.55,31,0.0,32.7635,Stay Out,32.7956
+Bahrain Grand Prix,Linear Regression,0.1,0.65,37,0.0,31.1428,Stay Out,31.0612
+Bahrain Grand Prix,Linear Regression,0.2,0.25,14,0.0,28.2032,Stay Out,28.4692
+Bahrain Grand Prix,Linear Regression,0.2,0.35,19,0.0,30.0854,Stay Out,30.2216
+Bahrain Grand Prix,Linear Regression,0.2,0.45,25,0.0,31.9501,Stay Out,31.974
+Bahrain Grand Prix,Linear Regression,0.2,0.55,31,0.0,33.4857,Stay Out,32.7956
+Bahrain Grand Prix,Linear Regression,0.2,0.65,37,0.0,30.763,Stay Out,31.0612
+Bahrain Grand Prix,Linear Regression,0.3,0.25,14,0.0,28.6689,Stay Out,28.4692
+Bahrain Grand Prix,Linear Regression,0.3,0.35,19,0.0,29.7485,Stay Out,30.2216
+Bahrain Grand Prix,Linear Regression,0.3,0.45,25,0.0,31.586,Stay Out,31.974
+Bahrain Grand Prix,Linear Regression,0.3,0.55,31,0.0,31.9308,Stay Out,32.7956
+Bahrain Grand Prix,Linear Regression,0.3,0.65,37,0.0,30.5376,Stay Out,31.0612
+Bahrain Grand Prix,Linear Regression,0.5,0.25,14,0.0,29.7049,Stay Out,28.4692
+Bahrain Grand Prix,Linear Regression,0.5,0.35,19,0.0,29.2909,Stay Out,30.2216
+Bahrain Grand Prix,Linear Regression,0.5,0.45,25,0.0,32.8708,Stay Out,31.974
+Bahrain Grand Prix,Linear Regression,0.5,0.55,31,0.0,32.7045,Stay Out,32.7956
+Bahrain Grand Prix,Linear Regression,0.5,0.65,37,0.0,31.0572,Stay Out,31.0612
+Bahrain Grand Prix,Linear Regression,0.75,0.25,14,0.0,30.3784,Stay Out,28.4692
+Bahrain Grand Prix,Linear Regression,0.75,0.35,19,0.0,31.1714,Stay Out,30.2216
+Bahrain Grand Prix,Linear Regression,0.75,0.45,25,0.0,31.7093,Stay Out,31.974
+Bahrain Grand Prix,Linear Regression,0.75,0.55,31,0.0,30.9594,Stay Out,32.7956
+Bahrain Grand Prix,Linear Regression,0.75,0.65,37,0.0,32.0139,Stay Out,31.0612
+Bahrain Grand Prix,Linear Regression,1.0,0.25,14,0.0,28.5989,Stay Out,28.4692
+Bahrain Grand Prix,Linear Regression,1.0,0.35,19,0.0,27.8422,Stay Out,30.2216
+Bahrain Grand Prix,Linear Regression,1.0,0.45,25,0.0,31.4465,Stay Out,31.974
+Bahrain Grand Prix,Linear Regression,1.0,0.55,31,0.0,33.337,Stay Out,32.7956
+Bahrain Grand Prix,Linear Regression,1.0,0.65,37,0.0,31.1594,Stay Out,31.0612
+Bahrain Grand Prix,Linear Regression,1.5,0.25,14,0.0,25.2965,Stay Out,28.4692
+Bahrain Grand Prix,Linear Regression,1.5,0.35,19,0.0,28.9035,Stay Out,30.2216
+Bahrain Grand Prix,Linear Regression,1.5,0.45,25,0.0,30.862,Stay Out,31.974
+Bahrain Grand Prix,Linear Regression,1.5,0.55,31,0.0,33.2471,Stay Out,32.7956
+Bahrain Grand Prix,Linear Regression,1.5,0.65,37,0.0,29.6105,Stay Out,31.0612
+Bahrain Grand Prix,Linear Regression,2.0,0.25,14,0.0667,28.61,Stay Out,28.4692
+Bahrain Grand Prix,Linear Regression,2.0,0.35,19,0.0333,25.5462,Stay Out,30.2216
+Bahrain Grand Prix,Linear Regression,2.0,0.45,25,0.0333,29.7873,Stay Out,31.974
+Bahrain Grand Prix,Linear Regression,2.0,0.55,31,0.0,29.8503,Stay Out,32.7956
+Bahrain Grand Prix,Linear Regression,2.0,0.65,37,0.0,29.8543,Stay Out,31.0612
+Bahrain Grand Prix,Ridge Regression,0.0,0.25,14,0.0,28.8971,Stay Out,28.8971
+Bahrain Grand Prix,Ridge Regression,0.0,0.35,19,0.0,30.5183,Stay Out,30.5183
+Bahrain Grand Prix,Ridge Regression,0.0,0.45,25,0.0,32.1395,Stay Out,32.1395
+Bahrain Grand Prix,Ridge Regression,0.0,0.55,31,0.0,32.8598,Stay Out,32.8598
+Bahrain Grand Prix,Ridge Regression,0.0,0.65,37,0.0,31.0687,Stay Out,31.0687
+Bahrain Grand Prix,Ridge Regression,0.1,0.25,14,0.0,28.9535,Stay Out,28.8971
+Bahrain Grand Prix,Ridge Regression,0.1,0.35,19,0.0,30.3988,Stay Out,30.5183
+Bahrain Grand Prix,Ridge Regression,0.1,0.45,25,0.0,32.3752,Stay Out,32.1395
+Bahrain Grand Prix,Ridge Regression,0.1,0.55,31,0.0,32.7888,Stay Out,32.8598
+Bahrain Grand Prix,Ridge Regression,0.1,0.65,37,0.0,31.1079,Stay Out,31.0687
+Bahrain Grand Prix,Ridge Regression,0.2,0.25,14,0.0,28.7852,Stay Out,28.8971
+Bahrain Grand Prix,Ridge Regression,0.2,0.35,19,0.0,30.7941,Stay Out,30.5183
+Bahrain Grand Prix,Ridge Regression,0.2,0.45,25,0.0,32.5315,Stay Out,32.1395
+Bahrain Grand Prix,Ridge Regression,0.2,0.55,31,0.0,33.1622,Stay Out,32.8598
+Bahrain Grand Prix,Ridge Regression,0.2,0.65,37,0.0,30.863,Stay Out,31.0687
+Bahrain Grand Prix,Ridge Regression,0.3,0.25,14,0.0,28.7706,Stay Out,28.8971
+Bahrain Grand Prix,Ridge Regression,0.3,0.35,19,0.0,30.9507,Stay Out,30.5183
+Bahrain Grand Prix,Ridge Regression,0.3,0.45,25,0.0,31.6409,Stay Out,32.1395
+Bahrain Grand Prix,Ridge Regression,0.3,0.55,31,0.0,32.8951,Stay Out,32.8598
+Bahrain Grand Prix,Ridge Regression,0.3,0.65,37,0.0,30.9613,Stay Out,31.0687
+Bahrain Grand Prix,Ridge Regression,0.5,0.25,14,0.0,28.155,Stay Out,28.8971
+Bahrain Grand Prix,Ridge Regression,0.5,0.35,19,0.0,31.1832,Stay Out,30.5183
+Bahrain Grand Prix,Ridge Regression,0.5,0.45,25,0.0,32.4916,Stay Out,32.1395
+Bahrain Grand Prix,Ridge Regression,0.5,0.55,31,0.0,32.9352,Stay Out,32.8598
+Bahrain Grand Prix,Ridge Regression,0.5,0.65,37,0.0,31.1561,Stay Out,31.0687
+Bahrain Grand Prix,Ridge Regression,0.75,0.25,14,0.0,29.2755,Stay Out,28.8971
+Bahrain Grand Prix,Ridge Regression,0.75,0.35,19,0.0,29.5175,Stay Out,30.5183
+Bahrain Grand Prix,Ridge Regression,0.75,0.45,25,0.0,32.469,Stay Out,32.1395
+Bahrain Grand Prix,Ridge Regression,0.75,0.55,31,0.0,33.5936,Stay Out,32.8598
+Bahrain Grand Prix,Ridge Regression,0.75,0.65,37,0.0,29.4871,Stay Out,31.0687
+Bahrain Grand Prix,Ridge Regression,1.0,0.25,14,0.0,27.2222,Stay Out,28.8971
+Bahrain Grand Prix,Ridge Regression,1.0,0.35,19,0.0,27.0298,Stay Out,30.5183
+Bahrain Grand Prix,Ridge Regression,1.0,0.45,25,0.0,30.1399,Stay Out,32.1395
+Bahrain Grand Prix,Ridge Regression,1.0,0.55,31,0.0,32.2104,Stay Out,32.8598
+Bahrain Grand Prix,Ridge Regression,1.0,0.65,37,0.0,31.2476,Stay Out,31.0687
+Bahrain Grand Prix,Ridge Regression,1.5,0.25,14,0.0,27.8317,Stay Out,28.8971
+Bahrain Grand Prix,Ridge Regression,1.5,0.35,19,0.0,29.3449,Stay Out,30.5183
+Bahrain Grand Prix,Ridge Regression,1.5,0.45,25,0.0,29.4002,Stay Out,32.1395
+Bahrain Grand Prix,Ridge Regression,1.5,0.55,31,0.0,30.9531,Stay Out,32.8598
+Bahrain Grand Prix,Ridge Regression,1.5,0.65,37,0.0,29.7073,Stay Out,31.0687
+Bahrain Grand Prix,Ridge Regression,2.0,0.25,14,0.0667,23.9583,Stay Out,28.8971
+Bahrain Grand Prix,Ridge Regression,2.0,0.35,19,0.0667,30.2737,Stay Out,30.5183
+Bahrain Grand Prix,Ridge Regression,2.0,0.45,25,0.0333,26.2684,Stay Out,32.1395
+Bahrain Grand Prix,Ridge Regression,2.0,0.55,31,0.0,28.33,Stay Out,32.8598
+Bahrain Grand Prix,Ridge Regression,2.0,0.65,37,0.0,28.593,Stay Out,31.0687
+Bahrain Grand Prix,Gradient Boosting,0.0,0.25,14,0.0,4.7391,Early 1-Stop,4.7391
+Bahrain Grand Prix,Gradient Boosting,0.0,0.35,19,0.0,5.365,Early 1-Stop,5.365
+Bahrain Grand Prix,Gradient Boosting,0.0,0.45,25,0.0,6.1941,Early 1-Stop,6.1941
+Bahrain Grand Prix,Gradient Boosting,0.0,0.55,31,0.0,3.3097,Early 1-Stop,3.3097
+Bahrain Grand Prix,Gradient Boosting,0.0,0.65,37,0.0,2.3003,Mid 1-Stop,2.3003
+Bahrain Grand Prix,Gradient Boosting,0.1,0.25,14,0.0,4.807,Early 1-Stop,4.7391
+Bahrain Grand Prix,Gradient Boosting,0.1,0.35,19,0.0,5.4425,Early 1-Stop,5.365
+Bahrain Grand Prix,Gradient Boosting,0.1,0.45,25,0.0,6.0004,Early 1-Stop,6.1941
+Bahrain Grand Prix,Gradient Boosting,0.1,0.55,31,0.0,3.2561,Early 1-Stop,3.3097
+Bahrain Grand Prix,Gradient Boosting,0.1,0.65,37,0.0,2.185,Mid 1-Stop,2.3003
+Bahrain Grand Prix,Gradient Boosting,0.2,0.25,14,0.0667,4.4577,Early 1-Stop,4.7391
+Bahrain Grand Prix,Gradient Boosting,0.2,0.35,19,0.0,5.5986,Early 1-Stop,5.365
+Bahrain Grand Prix,Gradient Boosting,0.2,0.45,25,0.0,6.1439,Early 1-Stop,6.1941
+Bahrain Grand Prix,Gradient Boosting,0.2,0.55,31,0.0,3.4281,Early 1-Stop,3.3097
+Bahrain Grand Prix,Gradient Boosting,0.2,0.65,37,0.0,2.587,Mid 1-Stop,2.3003
+Bahrain Grand Prix,Gradient Boosting,0.3,0.25,14,0.0667,4.5334,Early 1-Stop,4.7391
+Bahrain Grand Prix,Gradient Boosting,0.3,0.35,19,0.0,5.4723,Early 1-Stop,5.365
+Bahrain Grand Prix,Gradient Boosting,0.3,0.45,25,0.0,6.9286,Early 1-Stop,6.1941
+Bahrain Grand Prix,Gradient Boosting,0.3,0.55,31,0.1333,3.2641,Early 1-Stop,3.3097
+Bahrain Grand Prix,Gradient Boosting,0.3,0.65,37,0.0667,2.3257,Mid 1-Stop,2.3003
+Bahrain Grand Prix,Gradient Boosting,0.5,0.25,14,0.2,5.1424,Early 1-Stop,4.7391
+Bahrain Grand Prix,Gradient Boosting,0.5,0.35,19,0.1333,4.2787,Early 1-Stop,5.365
+Bahrain Grand Prix,Gradient Boosting,0.5,0.45,25,0.1,6.1131,Early 1-Stop,6.1941
+Bahrain Grand Prix,Gradient Boosting,0.5,0.55,31,0.2,4.0178,Early 1-Stop,3.3097
+Bahrain Grand Prix,Gradient Boosting,0.5,0.65,37,0.1667,3.0811,Mid 1-Stop,2.3003
+Bahrain Grand Prix,Gradient Boosting,0.75,0.25,14,0.2333,5.8764,Early 1-Stop,4.7391
+Bahrain Grand Prix,Gradient Boosting,0.75,0.35,19,0.3667,6.7346,Early 1-Stop,5.365
+Bahrain Grand Prix,Gradient Boosting,0.75,0.45,25,0.0333,6.1051,Early 1-Stop,6.1941
+Bahrain Grand Prix,Gradient Boosting,0.75,0.55,31,0.3667,4.0949,Early 1-Stop,3.3097
+Bahrain Grand Prix,Gradient Boosting,0.75,0.65,37,0.4333,2.9196,Mid 1-Stop,2.3003
+Bahrain Grand Prix,Gradient Boosting,1.0,0.25,14,0.4,7.7038,Early 1-Stop,4.7391
+Bahrain Grand Prix,Gradient Boosting,1.0,0.35,19,0.3,10.0989,Early 1-Stop,5.365
+Bahrain Grand Prix,Gradient Boosting,1.0,0.45,25,0.3,6.6016,Early 1-Stop,6.1941
+Bahrain Grand Prix,Gradient Boosting,1.0,0.55,31,0.6333,4.4641,Early 1-Stop,3.3097
+Bahrain Grand Prix,Gradient Boosting,1.0,0.65,37,0.4667,3.5228,Mid 1-Stop,2.3003
+Bahrain Grand Prix,Gradient Boosting,1.5,0.25,14,0.3333,8.2686,Early 1-Stop,4.7391
+Bahrain Grand Prix,Gradient Boosting,1.5,0.35,19,0.4333,7.7903,Early 1-Stop,5.365
+Bahrain Grand Prix,Gradient Boosting,1.5,0.45,25,0.3,8.3571,Early 1-Stop,6.1941
+Bahrain Grand Prix,Gradient Boosting,1.5,0.55,31,0.5,6.6835,Early 1-Stop,3.3097
+Bahrain Grand Prix,Gradient Boosting,1.5,0.65,37,0.6,6.3838,Mid 1-Stop,2.3003
+Bahrain Grand Prix,Gradient Boosting,2.0,0.25,14,0.5667,8.7495,Early 1-Stop,4.7391
+Bahrain Grand Prix,Gradient Boosting,2.0,0.35,19,0.4667,10.7061,Early 1-Stop,5.365
+Bahrain Grand Prix,Gradient Boosting,2.0,0.45,25,0.4,8.6746,Early 1-Stop,6.1941
+Bahrain Grand Prix,Gradient Boosting,2.0,0.55,31,0.6333,8.8525,Early 1-Stop,3.3097
+Bahrain Grand Prix,Gradient Boosting,2.0,0.65,37,0.5667,8.0757,Mid 1-Stop,2.3003
+Bahrain Grand Prix,XGBoost,0.0,0.25,14,0.0,5.3267,Early 1-Stop,5.326700210571289
+Bahrain Grand Prix,XGBoost,0.0,0.35,19,0.0,5.6057,Early 1-Stop,5.6057000160217285
+Bahrain Grand Prix,XGBoost,0.0,0.45,25,0.0,6.179,Early 1-Stop,6.178999900817871
+Bahrain Grand Prix,XGBoost,0.0,0.55,31,0.0,3.8745,Early 1-Stop,3.874500036239624
+Bahrain Grand Prix,XGBoost,0.0,0.65,37,0.0,2.4657,Late 1-Stop,2.4656999111175537
+Bahrain Grand Prix,XGBoost,0.1,0.25,14,0.0,5.3363,Early 1-Stop,5.326700210571289
+Bahrain Grand Prix,XGBoost,0.1,0.35,19,0.0,5.4778,Early 1-Stop,5.6057000160217285
+Bahrain Grand Prix,XGBoost,0.1,0.45,25,0.0,5.9882,Early 1-Stop,6.178999900817871
+Bahrain Grand Prix,XGBoost,0.1,0.55,31,0.0,3.8497,Early 1-Stop,3.874500036239624
+Bahrain Grand Prix,XGBoost,0.1,0.65,37,0.0,2.2578,Late 1-Stop,2.4656999111175537
+Bahrain Grand Prix,XGBoost,0.2,0.25,14,0.0,5.0866,Early 1-Stop,5.326700210571289
+Bahrain Grand Prix,XGBoost,0.2,0.35,19,0.0,6.2038,Early 1-Stop,5.6057000160217285
+Bahrain Grand Prix,XGBoost,0.2,0.45,25,0.0,6.0066,Early 1-Stop,6.178999900817871
+Bahrain Grand Prix,XGBoost,0.2,0.55,31,0.0,3.7304,Early 1-Stop,3.874500036239624
+Bahrain Grand Prix,XGBoost,0.2,0.65,37,0.0,2.7948,Late 1-Stop,2.4656999111175537
+Bahrain Grand Prix,XGBoost,0.3,0.25,14,0.0667,4.1655,Early 1-Stop,5.326700210571289
+Bahrain Grand Prix,XGBoost,0.3,0.35,19,0.0667,6.1399,Early 1-Stop,5.6057000160217285
+Bahrain Grand Prix,XGBoost,0.3,0.45,25,0.0,5.3918,Early 1-Stop,6.178999900817871
+Bahrain Grand Prix,XGBoost,0.3,0.55,31,0.0667,3.7902,Early 1-Stop,3.874500036239624
+Bahrain Grand Prix,XGBoost,0.3,0.65,37,0.0333,2.5882,Late 1-Stop,2.4656999111175537
+Bahrain Grand Prix,XGBoost,0.5,0.25,14,0.1,5.5643,Early 1-Stop,5.326700210571289
+Bahrain Grand Prix,XGBoost,0.5,0.35,19,0.1333,5.6099,Early 1-Stop,5.6057000160217285
+Bahrain Grand Prix,XGBoost,0.5,0.45,25,0.1333,6.1564,Early 1-Stop,6.178999900817871
+Bahrain Grand Prix,XGBoost,0.5,0.55,31,0.2667,2.1909,Early 1-Stop,3.874500036239624
+Bahrain Grand Prix,XGBoost,0.5,0.65,37,0.2,3.2738,Late 1-Stop,2.4656999111175537
+Bahrain Grand Prix,XGBoost,0.75,0.25,14,0.2333,5.5414,Early 1-Stop,5.326700210571289
+Bahrain Grand Prix,XGBoost,0.75,0.35,19,0.3,7.0697,Early 1-Stop,5.6057000160217285
+Bahrain Grand Prix,XGBoost,0.75,0.45,25,0.1333,8.469,Early 1-Stop,6.178999900817871
+Bahrain Grand Prix,XGBoost,0.75,0.55,31,0.1667,4.88,Early 1-Stop,3.874500036239624
+Bahrain Grand Prix,XGBoost,0.75,0.65,37,0.4333,3.0017,Late 1-Stop,2.4656999111175537
+Bahrain Grand Prix,XGBoost,1.0,0.25,14,0.4333,5.917,Early 1-Stop,5.326700210571289
+Bahrain Grand Prix,XGBoost,1.0,0.35,19,0.4667,5.4161,Early 1-Stop,5.6057000160217285
+Bahrain Grand Prix,XGBoost,1.0,0.45,25,0.3,7.694,Early 1-Stop,6.178999900817871
+Bahrain Grand Prix,XGBoost,1.0,0.55,31,0.5667,4.8784,Early 1-Stop,3.874500036239624
+Bahrain Grand Prix,XGBoost,1.0,0.65,37,0.4,5.012,Late 1-Stop,2.4656999111175537
+Bahrain Grand Prix,XGBoost,1.5,0.25,14,0.5,7.2166,Early 1-Stop,5.326700210571289
+Bahrain Grand Prix,XGBoost,1.5,0.35,19,0.3667,9.7323,Early 1-Stop,5.6057000160217285
+Bahrain Grand Prix,XGBoost,1.5,0.45,25,0.3667,9.2738,Early 1-Stop,6.178999900817871
+Bahrain Grand Prix,XGBoost,1.5,0.55,31,0.6333,6.3451,Early 1-Stop,3.874500036239624
+Bahrain Grand Prix,XGBoost,1.5,0.65,37,0.5667,4.5029,Late 1-Stop,2.4656999111175537
+Bahrain Grand Prix,XGBoost,2.0,0.25,14,0.5,10.2549,Early 1-Stop,5.326700210571289
+Bahrain Grand Prix,XGBoost,2.0,0.35,19,0.7,8.3012,Early 1-Stop,5.6057000160217285
+Bahrain Grand Prix,XGBoost,2.0,0.45,25,0.5667,9.5669,Early 1-Stop,6.178999900817871
+Bahrain Grand Prix,XGBoost,2.0,0.55,31,0.6667,5.8309,Early 1-Stop,3.874500036239624
+Bahrain Grand Prix,XGBoost,2.0,0.65,37,0.6333,7.8422,Late 1-Stop,2.4656999111175537
+Spanish Grand Prix,Linear Regression,0.0,0.25,16,0.0,2.7609,2-Stop,2.7609
+Spanish Grand Prix,Linear Regression,0.0,0.35,23,0.0,2.8691,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,0.0,0.45,29,0.0,2.8691,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,0.0,0.55,36,0.0,3.0833,Early 1-Stop,3.0833
+Spanish Grand Prix,Linear Regression,0.0,0.65,42,0.0,0.339,Stay Out,0.339
+Spanish Grand Prix,Linear Regression,0.1,0.25,16,0.0,2.5163,2-Stop,2.7609
+Spanish Grand Prix,Linear Regression,0.1,0.35,23,0.0,2.6209,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,0.1,0.45,29,0.0,2.868,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,0.1,0.55,36,0.0,2.9168,Early 1-Stop,3.0833
+Spanish Grand Prix,Linear Regression,0.1,0.65,42,0.3333,0.6912,Stay Out,0.339
+Spanish Grand Prix,Linear Regression,0.2,0.25,16,0.0333,3.8763,2-Stop,2.7609
+Spanish Grand Prix,Linear Regression,0.2,0.35,23,0.0333,2.9754,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,0.2,0.45,29,0.1333,2.9287,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,0.2,0.55,36,0.0333,3.5894,Early 1-Stop,3.0833
+Spanish Grand Prix,Linear Regression,0.2,0.65,42,0.2333,1.394,Stay Out,0.339
+Spanish Grand Prix,Linear Regression,0.3,0.25,16,0.1333,2.9639,2-Stop,2.7609
+Spanish Grand Prix,Linear Regression,0.3,0.35,23,0.2,2.9893,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,0.3,0.45,29,0.1,2.8602,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,0.3,0.55,36,0.0333,3.1742,Early 1-Stop,3.0833
+Spanish Grand Prix,Linear Regression,0.3,0.65,42,0.4667,1.6319,Stay Out,0.339
+Spanish Grand Prix,Linear Regression,0.5,0.25,16,0.3333,4.8547,2-Stop,2.7609
+Spanish Grand Prix,Linear Regression,0.5,0.35,23,0.3,4.1606,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,0.5,0.45,29,0.1667,3.5386,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,0.5,0.55,36,0.1667,3.5352,Early 1-Stop,3.0833
+Spanish Grand Prix,Linear Regression,0.5,0.65,42,0.6,1.7075,Stay Out,0.339
+Spanish Grand Prix,Linear Regression,0.75,0.25,16,0.4,5.2759,2-Stop,2.7609
+Spanish Grand Prix,Linear Regression,0.75,0.35,23,0.4333,4.518,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,0.75,0.45,29,0.4667,5.378,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,0.75,0.55,36,0.4333,3.9163,Early 1-Stop,3.0833
+Spanish Grand Prix,Linear Regression,0.75,0.65,42,0.5333,2.9703,Stay Out,0.339
+Spanish Grand Prix,Linear Regression,1.0,0.25,16,0.4667,5.744,2-Stop,2.7609
+Spanish Grand Prix,Linear Regression,1.0,0.35,23,0.5,6.1547,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,1.0,0.45,29,0.4333,5.1845,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,1.0,0.55,36,0.4333,5.8068,Early 1-Stop,3.0833
+Spanish Grand Prix,Linear Regression,1.0,0.65,42,0.4667,3.7111,Stay Out,0.339
+Spanish Grand Prix,Linear Regression,1.5,0.25,16,0.6667,7.6485,2-Stop,2.7609
+Spanish Grand Prix,Linear Regression,1.5,0.35,23,0.6333,7.4497,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,1.5,0.45,29,0.7,7.1496,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,1.5,0.55,36,0.5667,5.1257,Early 1-Stop,3.0833
+Spanish Grand Prix,Linear Regression,1.5,0.65,42,0.7333,5.0804,Stay Out,0.339
+Spanish Grand Prix,Linear Regression,2.0,0.25,16,0.5,10.4086,2-Stop,2.7609
+Spanish Grand Prix,Linear Regression,2.0,0.35,23,0.5667,8.9444,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,2.0,0.45,29,0.3667,8.3218,Early 1-Stop,2.8691
+Spanish Grand Prix,Linear Regression,2.0,0.55,36,0.6667,6.8669,Early 1-Stop,3.0833
+Spanish Grand Prix,Linear Regression,2.0,0.65,42,0.6333,7.4144,Stay Out,0.339
+Spanish Grand Prix,Ridge Regression,0.0,0.25,16,0.0,2.5503,2-Stop,2.5503
+Spanish Grand Prix,Ridge Regression,0.0,0.35,23,0.0,2.6583,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,0.0,0.45,29,0.0,2.6583,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,0.0,0.55,36,0.0,2.9207,Early 1-Stop,2.9207
+Spanish Grand Prix,Ridge Regression,0.0,0.65,42,0.0,0.5844,Stay Out,0.5844
+Spanish Grand Prix,Ridge Regression,0.1,0.25,16,0.0333,2.4095,2-Stop,2.5503
+Spanish Grand Prix,Ridge Regression,0.1,0.35,23,0.0,2.4042,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,0.1,0.45,29,0.0,2.8325,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,0.1,0.55,36,0.0,2.9612,Early 1-Stop,2.9207
+Spanish Grand Prix,Ridge Regression,0.1,0.65,42,0.1333,0.7039,Stay Out,0.5844
+Spanish Grand Prix,Ridge Regression,0.2,0.25,16,0.0667,3.3623,2-Stop,2.5503
+Spanish Grand Prix,Ridge Regression,0.2,0.35,23,0.0667,2.1324,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,0.2,0.45,29,0.1333,2.7946,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,0.2,0.55,36,0.0,3.2449,Early 1-Stop,2.9207
+Spanish Grand Prix,Ridge Regression,0.2,0.65,42,0.3333,1.0988,Stay Out,0.5844
+Spanish Grand Prix,Ridge Regression,0.3,0.25,16,0.1667,2.4853,2-Stop,2.5503
+Spanish Grand Prix,Ridge Regression,0.3,0.35,23,0.3,2.516,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,0.3,0.45,29,0.2,3.0285,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,0.3,0.55,36,0.2667,2.6966,Early 1-Stop,2.9207
+Spanish Grand Prix,Ridge Regression,0.3,0.65,42,0.2,2.1559,Stay Out,0.5844
+Spanish Grand Prix,Ridge Regression,0.5,0.25,16,0.4333,3.5249,2-Stop,2.5503
+Spanish Grand Prix,Ridge Regression,0.5,0.35,23,0.2,3.9429,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,0.5,0.45,29,0.2667,3.8086,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,0.5,0.55,36,0.2667,3.3603,Early 1-Stop,2.9207
+Spanish Grand Prix,Ridge Regression,0.5,0.65,42,0.7,2.5286,Stay Out,0.5844
+Spanish Grand Prix,Ridge Regression,0.75,0.25,16,0.3667,5.1911,2-Stop,2.5503
+Spanish Grand Prix,Ridge Regression,0.75,0.35,23,0.4333,4.4008,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,0.75,0.45,29,0.2667,5.7388,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,0.75,0.55,36,0.4667,3.2551,Early 1-Stop,2.9207
+Spanish Grand Prix,Ridge Regression,0.75,0.65,42,0.5333,2.9941,Stay Out,0.5844
+Spanish Grand Prix,Ridge Regression,1.0,0.25,16,0.4333,6.3677,2-Stop,2.5503
+Spanish Grand Prix,Ridge Regression,1.0,0.35,23,0.4,6.3406,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,1.0,0.45,29,0.5667,5.5267,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,1.0,0.55,36,0.5667,4.0282,Early 1-Stop,2.9207
+Spanish Grand Prix,Ridge Regression,1.0,0.65,42,0.5,2.8922,Stay Out,0.5844
+Spanish Grand Prix,Ridge Regression,1.5,0.25,16,0.5,8.16,2-Stop,2.5503
+Spanish Grand Prix,Ridge Regression,1.5,0.35,23,0.7333,8.1125,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,1.5,0.45,29,0.4667,7.4634,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,1.5,0.55,36,0.5333,6.15,Early 1-Stop,2.9207
+Spanish Grand Prix,Ridge Regression,1.5,0.65,42,0.7333,4.7975,Stay Out,0.5844
+Spanish Grand Prix,Ridge Regression,2.0,0.25,16,0.6667,7.5545,2-Stop,2.5503
+Spanish Grand Prix,Ridge Regression,2.0,0.35,23,0.7333,10.7598,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,2.0,0.45,29,0.7,10.9829,Early 1-Stop,2.6583
+Spanish Grand Prix,Ridge Regression,2.0,0.55,36,0.6333,8.4884,Early 1-Stop,2.9207
+Spanish Grand Prix,Ridge Regression,2.0,0.65,42,0.6333,6.3651,Stay Out,0.5844
+Spanish Grand Prix,Gradient Boosting,0.0,0.25,16,0.0,5.5489,Early 1-Stop,5.5489
+Spanish Grand Prix,Gradient Boosting,0.0,0.35,23,0.0,5.0467,Early 1-Stop,5.0467
+Spanish Grand Prix,Gradient Boosting,0.0,0.45,29,0.0,5.1817,Early 1-Stop,5.1817
+Spanish Grand Prix,Gradient Boosting,0.0,0.55,36,0.0,5.5214,Early 1-Stop,5.5214
+Spanish Grand Prix,Gradient Boosting,0.0,0.65,42,0.0,2.5341,Early 1-Stop,2.5341
+Spanish Grand Prix,Gradient Boosting,0.1,0.25,16,0.0,5.3736,Early 1-Stop,5.5489
+Spanish Grand Prix,Gradient Boosting,0.1,0.35,23,0.0,5.3442,Early 1-Stop,5.0467
+Spanish Grand Prix,Gradient Boosting,0.1,0.45,29,0.0,5.3723,Early 1-Stop,5.1817
+Spanish Grand Prix,Gradient Boosting,0.1,0.55,36,0.0,5.5164,Early 1-Stop,5.5214
+Spanish Grand Prix,Gradient Boosting,0.1,0.65,42,0.0,2.7789,Early 1-Stop,2.5341
+Spanish Grand Prix,Gradient Boosting,0.2,0.25,16,0.0,5.5229,Early 1-Stop,5.5489
+Spanish Grand Prix,Gradient Boosting,0.2,0.35,23,0.0,5.0997,Early 1-Stop,5.0467
+Spanish Grand Prix,Gradient Boosting,0.2,0.45,29,0.0,5.2866,Early 1-Stop,5.1817
+Spanish Grand Prix,Gradient Boosting,0.2,0.55,36,0.0,5.6059,Early 1-Stop,5.5214
+Spanish Grand Prix,Gradient Boosting,0.2,0.65,42,0.0,2.3935,Early 1-Stop,2.5341
+Spanish Grand Prix,Gradient Boosting,0.3,0.25,16,0.0667,5.9096,Early 1-Stop,5.5489
+Spanish Grand Prix,Gradient Boosting,0.3,0.35,23,0.0333,5.2527,Early 1-Stop,5.0467
+Spanish Grand Prix,Gradient Boosting,0.3,0.45,29,0.0,6.3977,Early 1-Stop,5.1817
+Spanish Grand Prix,Gradient Boosting,0.3,0.55,36,0.0,4.5393,Early 1-Stop,5.5214
+Spanish Grand Prix,Gradient Boosting,0.3,0.65,42,0.2,2.3533,Early 1-Stop,2.5341
+Spanish Grand Prix,Gradient Boosting,0.5,0.25,16,0.1667,6.2726,Early 1-Stop,5.5489
+Spanish Grand Prix,Gradient Boosting,0.5,0.35,23,0.1,5.7513,Early 1-Stop,5.0467
+Spanish Grand Prix,Gradient Boosting,0.5,0.45,29,0.1667,4.5818,Early 1-Stop,5.1817
+Spanish Grand Prix,Gradient Boosting,0.5,0.55,36,0.1,5.5706,Early 1-Stop,5.5214
+Spanish Grand Prix,Gradient Boosting,0.5,0.65,42,0.4333,2.5593,Early 1-Stop,2.5341
+Spanish Grand Prix,Gradient Boosting,0.75,0.25,16,0.2333,6.5266,Early 1-Stop,5.5489
+Spanish Grand Prix,Gradient Boosting,0.75,0.35,23,0.2,7.2353,Early 1-Stop,5.0467
+Spanish Grand Prix,Gradient Boosting,0.75,0.45,29,0.3,6.916,Early 1-Stop,5.1817
+Spanish Grand Prix,Gradient Boosting,0.75,0.55,36,0.2333,4.3069,Early 1-Stop,5.5214
+Spanish Grand Prix,Gradient Boosting,0.75,0.65,42,0.4,2.7755,Early 1-Stop,2.5341
+Spanish Grand Prix,Gradient Boosting,1.0,0.25,16,0.3667,7.2196,Early 1-Stop,5.5489
+Spanish Grand Prix,Gradient Boosting,1.0,0.35,23,0.3667,8.1873,Early 1-Stop,5.0467
+Spanish Grand Prix,Gradient Boosting,1.0,0.45,29,0.3,7.8058,Early 1-Stop,5.1817
+Spanish Grand Prix,Gradient Boosting,1.0,0.55,36,0.3667,5.3063,Early 1-Stop,5.5214
+Spanish Grand Prix,Gradient Boosting,1.0,0.65,42,0.4333,5.4465,Early 1-Stop,2.5341
+Spanish Grand Prix,Gradient Boosting,1.5,0.25,16,0.4,10.552,Early 1-Stop,5.5489
+Spanish Grand Prix,Gradient Boosting,1.5,0.35,23,0.5667,9.1434,Early 1-Stop,5.0467
+Spanish Grand Prix,Gradient Boosting,1.5,0.45,29,0.4,8.5508,Early 1-Stop,5.1817
+Spanish Grand Prix,Gradient Boosting,1.5,0.55,36,0.4667,6.4686,Early 1-Stop,5.5214
+Spanish Grand Prix,Gradient Boosting,1.5,0.65,42,0.5333,4.5844,Early 1-Stop,2.5341
+Spanish Grand Prix,Gradient Boosting,2.0,0.25,16,0.5,10.0701,Early 1-Stop,5.5489
+Spanish Grand Prix,Gradient Boosting,2.0,0.35,23,0.5,12.1509,Early 1-Stop,5.0467
+Spanish Grand Prix,Gradient Boosting,2.0,0.45,29,0.7333,9.0979,Early 1-Stop,5.1817
+Spanish Grand Prix,Gradient Boosting,2.0,0.55,36,0.6667,9.1318,Early 1-Stop,5.5214
+Spanish Grand Prix,Gradient Boosting,2.0,0.65,42,0.6667,6.6947,Early 1-Stop,2.5341
+Spanish Grand Prix,XGBoost,0.0,0.25,16,0.0,6.968,Early 1-Stop,6.9679999351501465
+Spanish Grand Prix,XGBoost,0.0,0.35,23,0.0,4.804,Early 1-Stop,4.803999900817871
+Spanish Grand Prix,XGBoost,0.0,0.45,29,0.0,4.5791,Early 1-Stop,4.579100131988525
+Spanish Grand Prix,XGBoost,0.0,0.55,36,0.0,4.9026,Early 1-Stop,4.902599811553955
+Spanish Grand Prix,XGBoost,0.0,0.65,42,0.0,1.0502,Early 1-Stop,1.0501999855041504
+Spanish Grand Prix,XGBoost,0.1,0.25,16,0.0,6.9463,Early 1-Stop,6.9679999351501465
+Spanish Grand Prix,XGBoost,0.1,0.35,23,0.0,4.6578,Early 1-Stop,4.803999900817871
+Spanish Grand Prix,XGBoost,0.1,0.45,29,0.0,4.6719,Early 1-Stop,4.579100131988525
+Spanish Grand Prix,XGBoost,0.1,0.55,36,0.0,4.8032,Early 1-Stop,4.902599811553955
+Spanish Grand Prix,XGBoost,0.1,0.65,42,0.0333,1.1312,Early 1-Stop,1.0501999855041504
+Spanish Grand Prix,XGBoost,0.2,0.25,16,0.0,7.2162,Early 1-Stop,6.9679999351501465
+Spanish Grand Prix,XGBoost,0.2,0.35,23,0.0,5.1102,Early 1-Stop,4.803999900817871
+Spanish Grand Prix,XGBoost,0.2,0.45,29,0.0,5.0874,Early 1-Stop,4.579100131988525
+Spanish Grand Prix,XGBoost,0.2,0.55,36,0.0,4.9409,Early 1-Stop,4.902599811553955
+Spanish Grand Prix,XGBoost,0.2,0.65,42,0.3,1.335,Early 1-Stop,1.0501999855041504
+Spanish Grand Prix,XGBoost,0.3,0.25,16,0.0333,6.2809,Early 1-Stop,6.9679999351501465
+Spanish Grand Prix,XGBoost,0.3,0.35,23,0.0667,4.2076,Early 1-Stop,4.803999900817871
+Spanish Grand Prix,XGBoost,0.3,0.45,29,0.0,4.6998,Early 1-Stop,4.579100131988525
+Spanish Grand Prix,XGBoost,0.3,0.55,36,0.0,4.085,Early 1-Stop,4.902599811553955
+Spanish Grand Prix,XGBoost,0.3,0.65,42,0.5667,1.7089,Early 1-Stop,1.0501999855041504
+Spanish Grand Prix,XGBoost,0.5,0.25,16,0.1,5.9745,Early 1-Stop,6.9679999351501465
+Spanish Grand Prix,XGBoost,0.5,0.35,23,0.0667,5.5744,Early 1-Stop,4.803999900817871
+Spanish Grand Prix,XGBoost,0.5,0.45,29,0.2333,4.6551,Early 1-Stop,4.579100131988525
+Spanish Grand Prix,XGBoost,0.5,0.55,36,0.1333,3.6713,Early 1-Stop,4.902599811553955
+Spanish Grand Prix,XGBoost,0.5,0.65,42,0.5333,3.0498,Early 1-Stop,1.0501999855041504
+Spanish Grand Prix,XGBoost,0.75,0.25,16,0.2667,7.1878,Early 1-Stop,6.9679999351501465
+Spanish Grand Prix,XGBoost,0.75,0.35,23,0.2,7.8942,Early 1-Stop,4.803999900817871
+Spanish Grand Prix,XGBoost,0.75,0.45,29,0.2333,5.871,Early 1-Stop,4.579100131988525
+Spanish Grand Prix,XGBoost,0.75,0.55,36,0.2,5.145,Early 1-Stop,4.902599811553955
+Spanish Grand Prix,XGBoost,0.75,0.65,42,0.6,3.6946,Early 1-Stop,1.0501999855041504
+Spanish Grand Prix,XGBoost,1.0,0.25,16,0.3333,9.5189,Early 1-Stop,6.9679999351501465
+Spanish Grand Prix,XGBoost,1.0,0.35,23,0.4667,6.0542,Early 1-Stop,4.803999900817871
+Spanish Grand Prix,XGBoost,1.0,0.45,29,0.4333,5.8887,Early 1-Stop,4.579100131988525
+Spanish Grand Prix,XGBoost,1.0,0.55,36,0.3667,4.8955,Early 1-Stop,4.902599811553955
+Spanish Grand Prix,XGBoost,1.0,0.65,42,0.5667,3.4325,Early 1-Stop,1.0501999855041504
+Spanish Grand Prix,XGBoost,1.5,0.25,16,0.5,9.177,Early 1-Stop,6.9679999351501465
+Spanish Grand Prix,XGBoost,1.5,0.35,23,0.4,9.9692,Early 1-Stop,4.803999900817871
+Spanish Grand Prix,XGBoost,1.5,0.45,29,0.4333,11.0273,Early 1-Stop,4.579100131988525
+Spanish Grand Prix,XGBoost,1.5,0.55,36,0.5,6.101,Early 1-Stop,4.902599811553955
+Spanish Grand Prix,XGBoost,1.5,0.65,42,0.4333,8.107,Early 1-Stop,1.0501999855041504
+Spanish Grand Prix,XGBoost,2.0,0.25,16,0.5,11.9573,Early 1-Stop,6.9679999351501465
+Spanish Grand Prix,XGBoost,2.0,0.35,23,0.5667,10.6117,Early 1-Stop,4.803999900817871
+Spanish Grand Prix,XGBoost,2.0,0.45,29,0.5,8.7079,Early 1-Stop,4.579100131988525
+Spanish Grand Prix,XGBoost,2.0,0.55,36,0.5667,10.9353,Early 1-Stop,4.902599811553955
+Spanish Grand Prix,XGBoost,2.0,0.65,42,0.6333,6.3121,Early 1-Stop,1.0501999855041504
+British Grand Prix,Linear Regression,0.0,0.25,13,0.0,236.4708,Stay Out,236.4708
+British Grand Prix,Linear Regression,0.0,0.35,18,0.0,189.4294,Stay Out,189.4294
+British Grand Prix,Linear Regression,0.0,0.45,23,0.0,154.6397,Stay Out,154.6397
+British Grand Prix,Linear Regression,0.0,0.55,28,0.0,118.8672,Stay Out,118.8672
+British Grand Prix,Linear Regression,0.0,0.65,33,0.0,88.9741,Stay Out,88.9741
+British Grand Prix,Linear Regression,0.1,0.25,13,0.0,236.5424,Stay Out,236.4708
+British Grand Prix,Linear Regression,0.1,0.35,18,0.0,189.601,Stay Out,189.4294
+British Grand Prix,Linear Regression,0.1,0.45,23,0.0,154.5792,Stay Out,154.6397
+British Grand Prix,Linear Regression,0.1,0.55,28,0.0,118.9254,Stay Out,118.8672
+British Grand Prix,Linear Regression,0.1,0.65,33,0.0,89.1151,Stay Out,88.9741
+British Grand Prix,Linear Regression,0.2,0.25,13,0.0,236.6538,Stay Out,236.4708
+British Grand Prix,Linear Regression,0.2,0.35,18,0.0,189.4175,Stay Out,189.4294
+British Grand Prix,Linear Regression,0.2,0.45,23,0.0,155.0444,Stay Out,154.6397
+British Grand Prix,Linear Regression,0.2,0.55,28,0.0,118.7866,Stay Out,118.8672
+British Grand Prix,Linear Regression,0.2,0.65,33,0.0,89.2029,Stay Out,88.9741
+British Grand Prix,Linear Regression,0.3,0.25,13,0.0,236.9556,Stay Out,236.4708
+British Grand Prix,Linear Regression,0.3,0.35,18,0.0,189.2806,Stay Out,189.4294
+British Grand Prix,Linear Regression,0.3,0.45,23,0.0,153.9854,Stay Out,154.6397
+British Grand Prix,Linear Regression,0.3,0.55,28,0.0,118.5692,Stay Out,118.8672
+British Grand Prix,Linear Regression,0.3,0.65,33,0.0,89.0889,Stay Out,88.9741
+British Grand Prix,Linear Regression,0.5,0.25,13,0.0,235.7374,Stay Out,236.4708
+British Grand Prix,Linear Regression,0.5,0.35,18,0.0,189.2901,Stay Out,189.4294
+British Grand Prix,Linear Regression,0.5,0.45,23,0.0,154.8817,Stay Out,154.6397
+British Grand Prix,Linear Regression,0.5,0.55,28,0.0,118.8965,Stay Out,118.8672
+British Grand Prix,Linear Regression,0.5,0.65,33,0.0,88.887,Stay Out,88.9741
+British Grand Prix,Linear Regression,0.75,0.25,13,0.0,236.8859,Stay Out,236.4708
+British Grand Prix,Linear Regression,0.75,0.35,18,0.0,189.2465,Stay Out,189.4294
+British Grand Prix,Linear Regression,0.75,0.45,23,0.0,154.0735,Stay Out,154.6397
+British Grand Prix,Linear Regression,0.75,0.55,28,0.0,117.547,Stay Out,118.8672
+British Grand Prix,Linear Regression,0.75,0.65,33,0.0,90.7955,Stay Out,88.9741
+British Grand Prix,Linear Regression,1.0,0.25,13,0.0,236.6927,Stay Out,236.4708
+British Grand Prix,Linear Regression,1.0,0.35,18,0.0,189.9757,Stay Out,189.4294
+British Grand Prix,Linear Regression,1.0,0.45,23,0.0,154.5632,Stay Out,154.6397
+British Grand Prix,Linear Regression,1.0,0.55,28,0.0,117.4179,Stay Out,118.8672
+British Grand Prix,Linear Regression,1.0,0.65,33,0.0,88.9284,Stay Out,88.9741
+British Grand Prix,Linear Regression,1.5,0.25,13,0.0,238.0876,Stay Out,236.4708
+British Grand Prix,Linear Regression,1.5,0.35,18,0.0,187.7851,Stay Out,189.4294
+British Grand Prix,Linear Regression,1.5,0.45,23,0.0,154.6743,Stay Out,154.6397
+British Grand Prix,Linear Regression,1.5,0.55,28,0.0,116.7516,Stay Out,118.8672
+British Grand Prix,Linear Regression,1.5,0.65,33,0.0,88.489,Stay Out,88.9741
+British Grand Prix,Linear Regression,2.0,0.25,13,0.0,227.3758,Stay Out,236.4708
+British Grand Prix,Linear Regression,2.0,0.35,18,0.0,183.6466,Stay Out,189.4294
+British Grand Prix,Linear Regression,2.0,0.45,23,0.0,152.2129,Stay Out,154.6397
+British Grand Prix,Linear Regression,2.0,0.55,28,0.0,112.5082,Stay Out,118.8672
+British Grand Prix,Linear Regression,2.0,0.65,33,0.0,86.4722,Stay Out,88.9741
+British Grand Prix,Ridge Regression,0.0,0.25,13,0.0,235.6637,Stay Out,235.6637
+British Grand Prix,Ridge Regression,0.0,0.35,18,0.0,188.8441,Stay Out,188.8441
+British Grand Prix,Ridge Regression,0.0,0.45,23,0.0,154.2319,Stay Out,154.2319
+British Grand Prix,Ridge Regression,0.0,0.55,28,0.0,118.6148,Stay Out,118.6148
+British Grand Prix,Ridge Regression,0.0,0.65,33,0.0,88.8425,Stay Out,88.8425
+British Grand Prix,Ridge Regression,0.1,0.25,13,0.0,235.73,Stay Out,235.6637
+British Grand Prix,Ridge Regression,0.1,0.35,18,0.0,188.8568,Stay Out,188.8441
+British Grand Prix,Ridge Regression,0.1,0.45,23,0.0,154.1953,Stay Out,154.2319
+British Grand Prix,Ridge Regression,0.1,0.55,28,0.0,118.5508,Stay Out,118.6148
+British Grand Prix,Ridge Regression,0.1,0.65,33,0.0,88.7779,Stay Out,88.8425
+British Grand Prix,Ridge Regression,0.2,0.25,13,0.0,235.304,Stay Out,235.6637
+British Grand Prix,Ridge Regression,0.2,0.35,18,0.0,189.2954,Stay Out,188.8441
+British Grand Prix,Ridge Regression,0.2,0.45,23,0.0,154.8151,Stay Out,154.2319
+British Grand Prix,Ridge Regression,0.2,0.55,28,0.0,118.7827,Stay Out,118.6148
+British Grand Prix,Ridge Regression,0.2,0.65,33,0.0,88.9603,Stay Out,88.8425
+British Grand Prix,Ridge Regression,0.3,0.25,13,0.0,235.3831,Stay Out,235.6637
+British Grand Prix,Ridge Regression,0.3,0.35,18,0.0,188.6501,Stay Out,188.8441
+British Grand Prix,Ridge Regression,0.3,0.45,23,0.0,154.5766,Stay Out,154.2319
+British Grand Prix,Ridge Regression,0.3,0.55,28,0.0,118.6746,Stay Out,118.6148
+British Grand Prix,Ridge Regression,0.3,0.65,33,0.0,89.0822,Stay Out,88.8425
+British Grand Prix,Ridge Regression,0.5,0.25,13,0.0,235.9666,Stay Out,235.6637
+British Grand Prix,Ridge Regression,0.5,0.35,18,0.0,189.0357,Stay Out,188.8441
+British Grand Prix,Ridge Regression,0.5,0.45,23,0.0,154.0673,Stay Out,154.2319
+British Grand Prix,Ridge Regression,0.5,0.55,28,0.0,118.8547,Stay Out,118.6148
+British Grand Prix,Ridge Regression,0.5,0.65,33,0.0,89.0971,Stay Out,88.8425
+British Grand Prix,Ridge Regression,0.75,0.25,13,0.0,234.0586,Stay Out,235.6637
+British Grand Prix,Ridge Regression,0.75,0.35,18,0.0,188.2655,Stay Out,188.8441
+British Grand Prix,Ridge Regression,0.75,0.45,23,0.0,154.5813,Stay Out,154.2319
+British Grand Prix,Ridge Regression,0.75,0.55,28,0.0,118.8582,Stay Out,118.6148
+British Grand Prix,Ridge Regression,0.75,0.65,33,0.0,86.7362,Stay Out,88.8425
+British Grand Prix,Ridge Regression,1.0,0.25,13,0.0,233.531,Stay Out,235.6637
+British Grand Prix,Ridge Regression,1.0,0.35,18,0.0,187.9891,Stay Out,188.8441
+British Grand Prix,Ridge Regression,1.0,0.45,23,0.0,157.1436,Stay Out,154.2319
+British Grand Prix,Ridge Regression,1.0,0.55,28,0.0,119.1077,Stay Out,118.6148
+British Grand Prix,Ridge Regression,1.0,0.65,33,0.0,90.4931,Stay Out,88.8425
+British Grand Prix,Ridge Regression,1.5,0.25,13,0.0,236.0313,Stay Out,235.6637
+British Grand Prix,Ridge Regression,1.5,0.35,18,0.0,186.8265,Stay Out,188.8441
+British Grand Prix,Ridge Regression,1.5,0.45,23,0.0,152.6403,Stay Out,154.2319
+British Grand Prix,Ridge Regression,1.5,0.55,28,0.0,116.0244,Stay Out,118.6148
+British Grand Prix,Ridge Regression,1.5,0.65,33,0.0,86.9708,Stay Out,88.8425
+British Grand Prix,Ridge Regression,2.0,0.25,13,0.0,237.2025,Stay Out,235.6637
+British Grand Prix,Ridge Regression,2.0,0.35,18,0.0,183.7851,Stay Out,188.8441
+British Grand Prix,Ridge Regression,2.0,0.45,23,0.0,150.5786,Stay Out,154.2319
+British Grand Prix,Ridge Regression,2.0,0.55,28,0.0,118.1768,Stay Out,118.6148
+British Grand Prix,Ridge Regression,2.0,0.65,33,0.0,86.0416,Stay Out,88.8425
+British Grand Prix,Gradient Boosting,0.0,0.25,13,0.0,41.3679,Stay Out,41.3679
+British Grand Prix,Gradient Boosting,0.0,0.35,18,0.0,39.652,Stay Out,39.652
+British Grand Prix,Gradient Boosting,0.0,0.45,23,0.0,36.9206,Stay Out,36.9206
+British Grand Prix,Gradient Boosting,0.0,0.55,28,0.0,35.1575,Stay Out,35.1575
+British Grand Prix,Gradient Boosting,0.0,0.65,33,0.0,31.6215,Stay Out,31.6215
+British Grand Prix,Gradient Boosting,0.1,0.25,13,0.0,41.3416,Stay Out,41.3679
+British Grand Prix,Gradient Boosting,0.1,0.35,18,0.0,39.5558,Stay Out,39.652
+British Grand Prix,Gradient Boosting,0.1,0.45,23,0.0,36.9223,Stay Out,36.9206
+British Grand Prix,Gradient Boosting,0.1,0.55,28,0.0,34.8793,Stay Out,35.1575
+British Grand Prix,Gradient Boosting,0.1,0.65,33,0.0,31.6356,Stay Out,31.6215
+British Grand Prix,Gradient Boosting,0.2,0.25,13,0.0,41.4037,Stay Out,41.3679
+British Grand Prix,Gradient Boosting,0.2,0.35,18,0.0,39.4452,Stay Out,39.652
+British Grand Prix,Gradient Boosting,0.2,0.45,23,0.0,36.5962,Stay Out,36.9206
+British Grand Prix,Gradient Boosting,0.2,0.55,28,0.0,34.8503,Stay Out,35.1575
+British Grand Prix,Gradient Boosting,0.2,0.65,33,0.0,31.444,Stay Out,31.6215
+British Grand Prix,Gradient Boosting,0.3,0.25,13,0.0,41.344,Stay Out,41.3679
+British Grand Prix,Gradient Boosting,0.3,0.35,18,0.0,39.1552,Stay Out,39.652
+British Grand Prix,Gradient Boosting,0.3,0.45,23,0.0,35.6409,Stay Out,36.9206
+British Grand Prix,Gradient Boosting,0.3,0.55,28,0.0,33.9997,Stay Out,35.1575
+British Grand Prix,Gradient Boosting,0.3,0.65,33,0.0,30.8483,Stay Out,31.6215
+British Grand Prix,Gradient Boosting,0.5,0.25,13,0.0,40.9992,Stay Out,41.3679
+British Grand Prix,Gradient Boosting,0.5,0.35,18,0.0,40.069,Stay Out,39.652
+British Grand Prix,Gradient Boosting,0.5,0.45,23,0.0,35.1799,Stay Out,36.9206
+British Grand Prix,Gradient Boosting,0.5,0.55,28,0.0,35.0417,Stay Out,35.1575
+British Grand Prix,Gradient Boosting,0.5,0.65,33,0.0,30.9847,Stay Out,31.6215
+British Grand Prix,Gradient Boosting,0.75,0.25,13,0.0,40.4506,Stay Out,41.3679
+British Grand Prix,Gradient Boosting,0.75,0.35,18,0.0,39.1273,Stay Out,39.652
+British Grand Prix,Gradient Boosting,0.75,0.45,23,0.0,35.5648,Stay Out,36.9206
+British Grand Prix,Gradient Boosting,0.75,0.55,28,0.0,32.4124,Stay Out,35.1575
+British Grand Prix,Gradient Boosting,0.75,0.65,33,0.0,31.2152,Stay Out,31.6215
+British Grand Prix,Gradient Boosting,1.0,0.25,13,0.0,42.8235,Stay Out,41.3679
+British Grand Prix,Gradient Boosting,1.0,0.35,18,0.0,38.8104,Stay Out,39.652
+British Grand Prix,Gradient Boosting,1.0,0.45,23,0.0,32.0007,Stay Out,36.9206
+British Grand Prix,Gradient Boosting,1.0,0.55,28,0.0,33.7588,Stay Out,35.1575
+British Grand Prix,Gradient Boosting,1.0,0.65,33,0.0,29.0665,Stay Out,31.6215
+British Grand Prix,Gradient Boosting,1.5,0.25,13,0.0,35.0312,Stay Out,41.3679
+British Grand Prix,Gradient Boosting,1.5,0.35,18,0.0,38.4477,Stay Out,39.652
+British Grand Prix,Gradient Boosting,1.5,0.45,23,0.0,35.2099,Stay Out,36.9206
+British Grand Prix,Gradient Boosting,1.5,0.55,28,0.0,31.9954,Stay Out,35.1575
+British Grand Prix,Gradient Boosting,1.5,0.65,33,0.0,29.9907,Stay Out,31.6215
+British Grand Prix,Gradient Boosting,2.0,0.25,13,0.0333,40.0633,Stay Out,41.3679
+British Grand Prix,Gradient Boosting,2.0,0.35,18,0.0,38.0625,Stay Out,39.652
+British Grand Prix,Gradient Boosting,2.0,0.45,23,0.0,31.7542,Stay Out,36.9206
+British Grand Prix,Gradient Boosting,2.0,0.55,28,0.0,31.2181,Stay Out,35.1575
+British Grand Prix,Gradient Boosting,2.0,0.65,33,0.0,26.717,Stay Out,31.6215
+British Grand Prix,XGBoost,0.0,0.25,13,0.0,29.9534,Stay Out,29.953399658203125
+British Grand Prix,XGBoost,0.0,0.35,18,0.0,23.6489,Stay Out,23.64889907836914
+British Grand Prix,XGBoost,0.0,0.45,23,0.0,22.9275,Stay Out,22.927499771118164
+British Grand Prix,XGBoost,0.0,0.55,28,0.0,20.751,Stay Out,20.750999450683594
+British Grand Prix,XGBoost,0.0,0.65,33,0.0,26.8917,Stay Out,26.891700744628906
+British Grand Prix,XGBoost,0.1,0.25,13,0.0,30.0679,Stay Out,29.953399658203125
+British Grand Prix,XGBoost,0.1,0.35,18,0.0,23.6926,Stay Out,23.64889907836914
+British Grand Prix,XGBoost,0.1,0.45,23,0.0,22.7694,Stay Out,22.927499771118164
+British Grand Prix,XGBoost,0.1,0.55,28,0.0,20.9285,Stay Out,20.750999450683594
+British Grand Prix,XGBoost,0.1,0.65,33,0.0,26.9063,Stay Out,26.891700744628906
+British Grand Prix,XGBoost,0.2,0.25,13,0.0,30.1425,Stay Out,29.953399658203125
+British Grand Prix,XGBoost,0.2,0.35,18,0.0,23.6764,Stay Out,23.64889907836914
+British Grand Prix,XGBoost,0.2,0.45,23,0.0,23.1452,Stay Out,22.927499771118164
+British Grand Prix,XGBoost,0.2,0.55,28,0.0,20.5515,Stay Out,20.750999450683594
+British Grand Prix,XGBoost,0.2,0.65,33,0.0,26.3195,Stay Out,26.891700744628906
+British Grand Prix,XGBoost,0.3,0.25,13,0.0,29.8417,Stay Out,29.953399658203125
+British Grand Prix,XGBoost,0.3,0.35,18,0.0,23.7385,Stay Out,23.64889907836914
+British Grand Prix,XGBoost,0.3,0.45,23,0.0,22.4299,Stay Out,22.927499771118164
+British Grand Prix,XGBoost,0.3,0.55,28,0.0,20.6455,Stay Out,20.750999450683594
+British Grand Prix,XGBoost,0.3,0.65,33,0.0,25.4938,Stay Out,26.891700744628906
+British Grand Prix,XGBoost,0.5,0.25,13,0.0,30.1026,Stay Out,29.953399658203125
+British Grand Prix,XGBoost,0.5,0.35,18,0.0,23.7912,Stay Out,23.64889907836914
+British Grand Prix,XGBoost,0.5,0.45,23,0.0,21.6095,Stay Out,22.927499771118164
+British Grand Prix,XGBoost,0.5,0.55,28,0.0,20.6035,Stay Out,20.750999450683594
+British Grand Prix,XGBoost,0.5,0.65,33,0.0,26.4327,Stay Out,26.891700744628906
+British Grand Prix,XGBoost,0.75,0.25,13,0.0,27.5731,Stay Out,29.953399658203125
+British Grand Prix,XGBoost,0.75,0.35,18,0.0,23.2206,Stay Out,23.64889907836914
+British Grand Prix,XGBoost,0.75,0.45,23,0.0,20.2716,Stay Out,22.927499771118164
+British Grand Prix,XGBoost,0.75,0.55,28,0.0,21.8499,Stay Out,20.750999450683594
+British Grand Prix,XGBoost,0.75,0.65,33,0.0,23.9525,Stay Out,26.891700744628906
+British Grand Prix,XGBoost,1.0,0.25,13,0.0,26.2772,Stay Out,29.953399658203125
+British Grand Prix,XGBoost,1.0,0.35,18,0.0,23.5806,Stay Out,23.64889907836914
+British Grand Prix,XGBoost,1.0,0.45,23,0.0,19.3973,Stay Out,22.927499771118164
+British Grand Prix,XGBoost,1.0,0.55,28,0.0,21.3667,Stay Out,20.750999450683594
+British Grand Prix,XGBoost,1.0,0.65,33,0.0,23.6806,Stay Out,26.891700744628906
+British Grand Prix,XGBoost,1.5,0.25,13,0.0,25.7366,Stay Out,29.953399658203125
+British Grand Prix,XGBoost,1.5,0.35,18,0.0333,21.8214,Stay Out,23.64889907836914
+British Grand Prix,XGBoost,1.5,0.45,23,0.0,18.1911,Stay Out,22.927499771118164
+British Grand Prix,XGBoost,1.5,0.55,28,0.0333,18.9269,Stay Out,20.750999450683594
+British Grand Prix,XGBoost,1.5,0.65,33,0.0,20.7013,Stay Out,26.891700744628906
+British Grand Prix,XGBoost,2.0,0.25,13,0.1333,21.7752,Stay Out,29.953399658203125
+British Grand Prix,XGBoost,2.0,0.35,18,0.0667,21.8576,Stay Out,23.64889907836914
+British Grand Prix,XGBoost,2.0,0.45,23,0.0667,18.8608,Stay Out,22.927499771118164
+British Grand Prix,XGBoost,2.0,0.55,28,0.0333,18.5108,Stay Out,20.750999450683594
+British Grand Prix,XGBoost,2.0,0.65,33,0.1333,19.0287,Stay Out,26.891700744628906
+Italian Grand Prix,Linear Regression,0.0,0.25,13,0.0,59.5345,Stay Out,59.5345
+Italian Grand Prix,Linear Regression,0.0,0.35,18,0.0,57.9774,Stay Out,57.9774
+Italian Grand Prix,Linear Regression,0.0,0.45,23,0.0,53.5191,Stay Out,53.5191
+Italian Grand Prix,Linear Regression,0.0,0.55,29,0.0,49.0399,Stay Out,49.0399
+Italian Grand Prix,Linear Regression,0.0,0.65,34,0.0,44.4007,Stay Out,44.4007
+Italian Grand Prix,Linear Regression,0.1,0.25,13,0.0,59.4754,Stay Out,59.5345
+Italian Grand Prix,Linear Regression,0.1,0.35,18,0.0,57.9758,Stay Out,57.9774
+Italian Grand Prix,Linear Regression,0.1,0.45,23,0.0,53.4068,Stay Out,53.5191
+Italian Grand Prix,Linear Regression,0.1,0.55,29,0.0,48.9381,Stay Out,49.0399
+Italian Grand Prix,Linear Regression,0.1,0.65,34,0.0,44.3499,Stay Out,44.4007
+Italian Grand Prix,Linear Regression,0.2,0.25,13,0.0,59.3857,Stay Out,59.5345
+Italian Grand Prix,Linear Regression,0.2,0.35,18,0.0,57.9495,Stay Out,57.9774
+Italian Grand Prix,Linear Regression,0.2,0.45,23,0.0,53.3574,Stay Out,53.5191
+Italian Grand Prix,Linear Regression,0.2,0.55,29,0.0,49.4572,Stay Out,49.0399
+Italian Grand Prix,Linear Regression,0.2,0.65,34,0.0,44.8258,Stay Out,44.4007
+Italian Grand Prix,Linear Regression,0.3,0.25,13,0.0,58.8131,Stay Out,59.5345
+Italian Grand Prix,Linear Regression,0.3,0.35,18,0.0,57.9039,Stay Out,57.9774
+Italian Grand Prix,Linear Regression,0.3,0.45,23,0.0,54.385,Stay Out,53.5191
+Italian Grand Prix,Linear Regression,0.3,0.55,29,0.0,49.0781,Stay Out,49.0399
+Italian Grand Prix,Linear Regression,0.3,0.65,34,0.0,44.7426,Stay Out,44.4007
+Italian Grand Prix,Linear Regression,0.5,0.25,13,0.0,58.3645,Stay Out,59.5345
+Italian Grand Prix,Linear Regression,0.5,0.35,18,0.0,59.0206,Stay Out,57.9774
+Italian Grand Prix,Linear Regression,0.5,0.45,23,0.0,53.6648,Stay Out,53.5191
+Italian Grand Prix,Linear Regression,0.5,0.55,29,0.0,50.0289,Stay Out,49.0399
+Italian Grand Prix,Linear Regression,0.5,0.65,34,0.0,42.6662,Stay Out,44.4007
+Italian Grand Prix,Linear Regression,0.75,0.25,13,0.0,56.3895,Stay Out,59.5345
+Italian Grand Prix,Linear Regression,0.75,0.35,18,0.0,55.2921,Stay Out,57.9774
+Italian Grand Prix,Linear Regression,0.75,0.45,23,0.0,55.1836,Stay Out,53.5191
+Italian Grand Prix,Linear Regression,0.75,0.55,29,0.0,48.8912,Stay Out,49.0399
+Italian Grand Prix,Linear Regression,0.75,0.65,34,0.0,44.4845,Stay Out,44.4007
+Italian Grand Prix,Linear Regression,1.0,0.25,13,0.0,55.8812,Stay Out,59.5345
+Italian Grand Prix,Linear Regression,1.0,0.35,18,0.0,54.083,Stay Out,57.9774
+Italian Grand Prix,Linear Regression,1.0,0.45,23,0.0,53.7914,Stay Out,53.5191
+Italian Grand Prix,Linear Regression,1.0,0.55,29,0.0,48.4349,Stay Out,49.0399
+Italian Grand Prix,Linear Regression,1.0,0.65,34,0.0,45.3077,Stay Out,44.4007
+Italian Grand Prix,Linear Regression,1.5,0.25,13,0.0,54.2091,Stay Out,59.5345
+Italian Grand Prix,Linear Regression,1.5,0.35,18,0.0,53.1732,Stay Out,57.9774
+Italian Grand Prix,Linear Regression,1.5,0.45,23,0.0,51.281,Stay Out,53.5191
+Italian Grand Prix,Linear Regression,1.5,0.55,29,0.0,47.5454,Stay Out,49.0399
+Italian Grand Prix,Linear Regression,1.5,0.65,34,0.0,42.7257,Stay Out,44.4007
+Italian Grand Prix,Linear Regression,2.0,0.25,13,0.0,49.4582,Stay Out,59.5345
+Italian Grand Prix,Linear Regression,2.0,0.35,18,0.0,50.6382,Stay Out,57.9774
+Italian Grand Prix,Linear Regression,2.0,0.45,23,0.0,47.8124,Stay Out,53.5191
+Italian Grand Prix,Linear Regression,2.0,0.55,29,0.0,44.9259,Stay Out,49.0399
+Italian Grand Prix,Linear Regression,2.0,0.65,34,0.0,41.8913,Stay Out,44.4007
+Italian Grand Prix,Ridge Regression,0.0,0.25,13,0.0,60.6449,Stay Out,60.6449
+Italian Grand Prix,Ridge Regression,0.0,0.35,18,0.0,59.355,Stay Out,59.355
+Italian Grand Prix,Ridge Regression,0.0,0.45,23,0.0,58.5207,Stay Out,58.5207
+Italian Grand Prix,Ridge Regression,0.0,0.55,29,0.0,51.7739,Stay Out,51.7739
+Italian Grand Prix,Ridge Regression,0.0,0.65,34,0.0,45.6904,Stay Out,45.6904
+Italian Grand Prix,Ridge Regression,0.1,0.25,13,0.0,60.6191,Stay Out,60.6449
+Italian Grand Prix,Ridge Regression,0.1,0.35,18,0.0,59.3159,Stay Out,59.355
+Italian Grand Prix,Ridge Regression,0.1,0.45,23,0.0,58.371,Stay Out,58.5207
+Italian Grand Prix,Ridge Regression,0.1,0.55,29,0.0,51.675,Stay Out,51.7739
+Italian Grand Prix,Ridge Regression,0.1,0.65,34,0.0,45.7441,Stay Out,45.6904
+Italian Grand Prix,Ridge Regression,0.2,0.25,13,0.0,60.4341,Stay Out,60.6449
+Italian Grand Prix,Ridge Regression,0.2,0.35,18,0.0,59.1048,Stay Out,59.355
+Italian Grand Prix,Ridge Regression,0.2,0.45,23,0.0,58.597,Stay Out,58.5207
+Italian Grand Prix,Ridge Regression,0.2,0.55,29,0.0,51.7753,Stay Out,51.7739
+Italian Grand Prix,Ridge Regression,0.2,0.65,34,0.0,45.5483,Stay Out,45.6904
+Italian Grand Prix,Ridge Regression,0.3,0.25,13,0.0,61.4161,Stay Out,60.6449
+Italian Grand Prix,Ridge Regression,0.3,0.35,18,0.0,59.5847,Stay Out,59.355
+Italian Grand Prix,Ridge Regression,0.3,0.45,23,0.0,57.7503,Stay Out,58.5207
+Italian Grand Prix,Ridge Regression,0.3,0.55,29,0.0,51.3507,Stay Out,51.7739
+Italian Grand Prix,Ridge Regression,0.3,0.65,34,0.0,45.2305,Stay Out,45.6904
+Italian Grand Prix,Ridge Regression,0.5,0.25,13,0.0,60.0136,Stay Out,60.6449
+Italian Grand Prix,Ridge Regression,0.5,0.35,18,0.0,58.4136,Stay Out,59.355
+Italian Grand Prix,Ridge Regression,0.5,0.45,23,0.0,58.3472,Stay Out,58.5207
+Italian Grand Prix,Ridge Regression,0.5,0.55,29,0.0,52.6486,Stay Out,51.7739
+Italian Grand Prix,Ridge Regression,0.5,0.65,34,0.0,44.9985,Stay Out,45.6904
+Italian Grand Prix,Ridge Regression,0.75,0.25,13,0.0,60.3965,Stay Out,60.6449
+Italian Grand Prix,Ridge Regression,0.75,0.35,18,0.0,59.1405,Stay Out,59.355
+Italian Grand Prix,Ridge Regression,0.75,0.45,23,0.0,59.8653,Stay Out,58.5207
+Italian Grand Prix,Ridge Regression,0.75,0.55,29,0.0,51.3464,Stay Out,51.7739
+Italian Grand Prix,Ridge Regression,0.75,0.65,34,0.0,44.9467,Stay Out,45.6904
+Italian Grand Prix,Ridge Regression,1.0,0.25,13,0.0,60.5598,Stay Out,60.6449
+Italian Grand Prix,Ridge Regression,1.0,0.35,18,0.0,59.9995,Stay Out,59.355
+Italian Grand Prix,Ridge Regression,1.0,0.45,23,0.0,57.7099,Stay Out,58.5207
+Italian Grand Prix,Ridge Regression,1.0,0.55,29,0.0,49.7642,Stay Out,51.7739
+Italian Grand Prix,Ridge Regression,1.0,0.65,34,0.0,45.2026,Stay Out,45.6904
+Italian Grand Prix,Ridge Regression,1.5,0.25,13,0.0,55.3705,Stay Out,60.6449
+Italian Grand Prix,Ridge Regression,1.5,0.35,18,0.0,59.1829,Stay Out,59.355
+Italian Grand Prix,Ridge Regression,1.5,0.45,23,0.0,56.2241,Stay Out,58.5207
+Italian Grand Prix,Ridge Regression,1.5,0.55,29,0.0,51.6525,Stay Out,51.7739
+Italian Grand Prix,Ridge Regression,1.5,0.65,34,0.0,43.5033,Stay Out,45.6904
+Italian Grand Prix,Ridge Regression,2.0,0.25,13,0.0,57.487,Stay Out,60.6449
+Italian Grand Prix,Ridge Regression,2.0,0.35,18,0.0,52.9677,Stay Out,59.355
+Italian Grand Prix,Ridge Regression,2.0,0.45,23,0.0,51.5964,Stay Out,58.5207
+Italian Grand Prix,Ridge Regression,2.0,0.55,29,0.0,45.2073,Stay Out,51.7739
+Italian Grand Prix,Ridge Regression,2.0,0.65,34,0.0,42.7693,Stay Out,45.6904
+Italian Grand Prix,Gradient Boosting,0.0,0.25,13,0.0,20.1313,Stay Out,20.1313
+Italian Grand Prix,Gradient Boosting,0.0,0.35,18,0.0,20.5799,Stay Out,20.5799
+Italian Grand Prix,Gradient Boosting,0.0,0.45,23,0.0,19.264,Stay Out,19.264
+Italian Grand Prix,Gradient Boosting,0.0,0.55,29,0.0,29.0528,Stay Out,29.0528
+Italian Grand Prix,Gradient Boosting,0.0,0.65,34,0.0,28.1999,Stay Out,28.1999
+Italian Grand Prix,Gradient Boosting,0.1,0.25,13,0.0,20.3194,Stay Out,20.1313
+Italian Grand Prix,Gradient Boosting,0.1,0.35,18,0.0,20.3719,Stay Out,20.5799
+Italian Grand Prix,Gradient Boosting,0.1,0.45,23,0.0,19.3675,Stay Out,19.264
+Italian Grand Prix,Gradient Boosting,0.1,0.55,29,0.0,28.9534,Stay Out,29.0528
+Italian Grand Prix,Gradient Boosting,0.1,0.65,34,0.0,28.0684,Stay Out,28.1999
+Italian Grand Prix,Gradient Boosting,0.2,0.25,13,0.0,19.6851,Stay Out,20.1313
+Italian Grand Prix,Gradient Boosting,0.2,0.35,18,0.0,20.403,Stay Out,20.5799
+Italian Grand Prix,Gradient Boosting,0.2,0.45,23,0.0,19.2886,Stay Out,19.264
+Italian Grand Prix,Gradient Boosting,0.2,0.55,29,0.0,28.7263,Stay Out,29.0528
+Italian Grand Prix,Gradient Boosting,0.2,0.65,34,0.0,28.0823,Stay Out,28.1999
+Italian Grand Prix,Gradient Boosting,0.3,0.25,13,0.0,19.7984,Stay Out,20.1313
+Italian Grand Prix,Gradient Boosting,0.3,0.35,18,0.0,20.5915,Stay Out,20.5799
+Italian Grand Prix,Gradient Boosting,0.3,0.45,23,0.0,18.866,Stay Out,19.264
+Italian Grand Prix,Gradient Boosting,0.3,0.55,29,0.0,28.5365,Stay Out,29.0528
+Italian Grand Prix,Gradient Boosting,0.3,0.65,34,0.0,28.3605,Stay Out,28.1999
+Italian Grand Prix,Gradient Boosting,0.5,0.25,13,0.0,18.5189,Stay Out,20.1313
+Italian Grand Prix,Gradient Boosting,0.5,0.35,18,0.0,20.89,Stay Out,20.5799
+Italian Grand Prix,Gradient Boosting,0.5,0.45,23,0.0,18.7095,Stay Out,19.264
+Italian Grand Prix,Gradient Boosting,0.5,0.55,29,0.0,27.9276,Stay Out,29.0528
+Italian Grand Prix,Gradient Boosting,0.5,0.65,34,0.0,27.5395,Stay Out,28.1999
+Italian Grand Prix,Gradient Boosting,0.75,0.25,13,0.0,18.9243,Stay Out,20.1313
+Italian Grand Prix,Gradient Boosting,0.75,0.35,18,0.0,16.8241,Stay Out,20.5799
+Italian Grand Prix,Gradient Boosting,0.75,0.45,23,0.0,20.3191,Stay Out,19.264
+Italian Grand Prix,Gradient Boosting,0.75,0.55,29,0.0,25.7147,Stay Out,29.0528
+Italian Grand Prix,Gradient Boosting,0.75,0.65,34,0.0,26.6548,Stay Out,28.1999
+Italian Grand Prix,Gradient Boosting,1.0,0.25,13,0.0,18.2739,Stay Out,20.1313
+Italian Grand Prix,Gradient Boosting,1.0,0.35,18,0.0,19.5619,Stay Out,20.5799
+Italian Grand Prix,Gradient Boosting,1.0,0.45,23,0.0,18.2966,Stay Out,19.264
+Italian Grand Prix,Gradient Boosting,1.0,0.55,29,0.0,25.5318,Stay Out,29.0528
+Italian Grand Prix,Gradient Boosting,1.0,0.65,34,0.0,26.6272,Stay Out,28.1999
+Italian Grand Prix,Gradient Boosting,1.5,0.25,13,0.1,19.0276,Stay Out,20.1313
+Italian Grand Prix,Gradient Boosting,1.5,0.35,18,0.0333,16.438,Stay Out,20.5799
+Italian Grand Prix,Gradient Boosting,1.5,0.45,23,0.0667,16.6473,Stay Out,19.264
+Italian Grand Prix,Gradient Boosting,1.5,0.55,29,0.0,21.9755,Stay Out,29.0528
+Italian Grand Prix,Gradient Boosting,1.5,0.65,34,0.0,24.5986,Stay Out,28.1999
+Italian Grand Prix,Gradient Boosting,2.0,0.25,13,0.2333,14.1069,Stay Out,20.1313
+Italian Grand Prix,Gradient Boosting,2.0,0.35,18,0.1333,14.5839,Stay Out,20.5799
+Italian Grand Prix,Gradient Boosting,2.0,0.45,23,0.0667,15.7924,Stay Out,19.264
+Italian Grand Prix,Gradient Boosting,2.0,0.55,29,0.0333,19.8221,Stay Out,29.0528
+Italian Grand Prix,Gradient Boosting,2.0,0.65,34,0.0667,26.3732,Stay Out,28.1999
+Italian Grand Prix,XGBoost,0.0,0.25,13,0.0,6.531,Stay Out,6.531000137329102
+Italian Grand Prix,XGBoost,0.0,0.35,18,0.0,9.6414,Stay Out,9.641400337219238
+Italian Grand Prix,XGBoost,0.0,0.45,23,0.0,15.053,Stay Out,15.053000450134277
+Italian Grand Prix,XGBoost,0.0,0.55,29,0.0,17.064,Stay Out,17.06399917602539
+Italian Grand Prix,XGBoost,0.0,0.65,34,0.0,18.9335,Stay Out,18.933500289916992
+Italian Grand Prix,XGBoost,0.1,0.25,13,0.0,6.2648,Stay Out,6.531000137329102
+Italian Grand Prix,XGBoost,0.1,0.35,18,0.0,9.6991,Stay Out,9.641400337219238
+Italian Grand Prix,XGBoost,0.1,0.45,23,0.0,15.2493,Stay Out,15.053000450134277
+Italian Grand Prix,XGBoost,0.1,0.55,29,0.0,16.9672,Stay Out,17.06399917602539
+Italian Grand Prix,XGBoost,0.1,0.65,34,0.0,18.8184,Stay Out,18.933500289916992
+Italian Grand Prix,XGBoost,0.2,0.25,13,0.0,7.2638,Stay Out,6.531000137329102
+Italian Grand Prix,XGBoost,0.2,0.35,18,0.0,9.4251,Stay Out,9.641400337219238
+Italian Grand Prix,XGBoost,0.2,0.45,23,0.0,14.8975,Stay Out,15.053000450134277
+Italian Grand Prix,XGBoost,0.2,0.55,29,0.0,17.083,Stay Out,17.06399917602539
+Italian Grand Prix,XGBoost,0.2,0.65,34,0.0,18.6423,Stay Out,18.933500289916992
+Italian Grand Prix,XGBoost,0.3,0.25,13,0.0,6.6396,Stay Out,6.531000137329102
+Italian Grand Prix,XGBoost,0.3,0.35,18,0.0,9.206,Stay Out,9.641400337219238
+Italian Grand Prix,XGBoost,0.3,0.45,23,0.0,15.2596,Stay Out,15.053000450134277
+Italian Grand Prix,XGBoost,0.3,0.55,29,0.0,17.1911,Stay Out,17.06399917602539
+Italian Grand Prix,XGBoost,0.3,0.65,34,0.0,18.2251,Stay Out,18.933500289916992
+Italian Grand Prix,XGBoost,0.5,0.25,13,0.1,7.7867,Stay Out,6.531000137329102
+Italian Grand Prix,XGBoost,0.5,0.35,18,0.0,10.1011,Stay Out,9.641400337219238
+Italian Grand Prix,XGBoost,0.5,0.45,23,0.0,14.6867,Stay Out,15.053000450134277
+Italian Grand Prix,XGBoost,0.5,0.55,29,0.0,16.0531,Stay Out,17.06399917602539
+Italian Grand Prix,XGBoost,0.5,0.65,34,0.0,18.2941,Stay Out,18.933500289916992
+Italian Grand Prix,XGBoost,0.75,0.25,13,0.1667,7.7151,Stay Out,6.531000137329102
+Italian Grand Prix,XGBoost,0.75,0.35,18,0.1333,10.425,Stay Out,9.641400337219238
+Italian Grand Prix,XGBoost,0.75,0.45,23,0.0,13.4737,Stay Out,15.053000450134277
+Italian Grand Prix,XGBoost,0.75,0.55,29,0.0,15.9735,Stay Out,17.06399917602539
+Italian Grand Prix,XGBoost,0.75,0.65,34,0.0,19.4907,Stay Out,18.933500289916992
+Italian Grand Prix,XGBoost,1.0,0.25,13,0.3333,6.8523,Stay Out,6.531000137329102
+Italian Grand Prix,XGBoost,1.0,0.35,18,0.1,9.6268,Stay Out,9.641400337219238
+Italian Grand Prix,XGBoost,1.0,0.45,23,0.0,10.2665,Stay Out,15.053000450134277
+Italian Grand Prix,XGBoost,1.0,0.55,29,0.0,16.817,Stay Out,17.06399917602539
+Italian Grand Prix,XGBoost,1.0,0.65,34,0.0,17.1001,Stay Out,18.933500289916992
+Italian Grand Prix,XGBoost,1.5,0.25,13,0.3667,10.1618,Stay Out,6.531000137329102
+Italian Grand Prix,XGBoost,1.5,0.35,18,0.3667,8.5309,Stay Out,9.641400337219238
+Italian Grand Prix,XGBoost,1.5,0.45,23,0.1333,11.6687,Stay Out,15.053000450134277
+Italian Grand Prix,XGBoost,1.5,0.55,29,0.0667,15.3597,Stay Out,17.06399917602539
+Italian Grand Prix,XGBoost,1.5,0.65,34,0.0,17.5918,Stay Out,18.933500289916992
+Italian Grand Prix,XGBoost,2.0,0.25,13,0.6667,10.3618,Stay Out,6.531000137329102
+Italian Grand Prix,XGBoost,2.0,0.35,18,0.3667,12.9401,Stay Out,9.641400337219238
+Italian Grand Prix,XGBoost,2.0,0.45,23,0.2667,10.8034,Stay Out,15.053000450134277
+Italian Grand Prix,XGBoost,2.0,0.55,29,0.3,14.8336,Stay Out,17.06399917602539
+Italian Grand Prix,XGBoost,2.0,0.65,34,0.2,14.4974,Stay Out,18.933500289916992
+Monaco Grand Prix,Linear Regression,0.0,0.25,19,0.0,6.5116,Early 1-Stop,6.5116
+Monaco Grand Prix,Linear Regression,0.0,0.35,27,0.0,10.7602,Early 1-Stop,10.7602
+Monaco Grand Prix,Linear Regression,0.0,0.45,35,0.0,6.3261,Early 1-Stop,6.3261
+Monaco Grand Prix,Linear Regression,0.0,0.55,42,0.0,0.8318,Early 1-Stop,0.8318
+Monaco Grand Prix,Linear Regression,0.0,0.65,50,0.0,6.156,Stay Out,6.156
+Monaco Grand Prix,Linear Regression,0.1,0.25,19,0.0,6.5471,Early 1-Stop,6.5116
+Monaco Grand Prix,Linear Regression,0.1,0.35,27,0.0,10.6705,Early 1-Stop,10.7602
+Monaco Grand Prix,Linear Regression,0.1,0.45,35,0.0,6.2268,Early 1-Stop,6.3261
+Monaco Grand Prix,Linear Regression,0.1,0.55,42,0.3,0.9427,Early 1-Stop,0.8318
+Monaco Grand Prix,Linear Regression,0.1,0.65,50,0.0,6.2978,Stay Out,6.156
+Monaco Grand Prix,Linear Regression,0.2,0.25,19,0.0,5.9819,Early 1-Stop,6.5116
+Monaco Grand Prix,Linear Regression,0.2,0.35,27,0.0,10.7566,Early 1-Stop,10.7602
+Monaco Grand Prix,Linear Regression,0.2,0.45,35,0.0,6.6189,Early 1-Stop,6.3261
+Monaco Grand Prix,Linear Regression,0.2,0.55,42,0.3,1.6451,Early 1-Stop,0.8318
+Monaco Grand Prix,Linear Regression,0.2,0.65,50,0.0,6.6373,Stay Out,6.156
+Monaco Grand Prix,Linear Regression,0.3,0.25,19,0.0333,6.0618,Early 1-Stop,6.5116
+Monaco Grand Prix,Linear Regression,0.3,0.35,27,0.0,9.402,Early 1-Stop,10.7602
+Monaco Grand Prix,Linear Regression,0.3,0.45,35,0.0,5.0271,Early 1-Stop,6.3261
+Monaco Grand Prix,Linear Regression,0.3,0.55,42,0.2667,2.28,Early 1-Stop,0.8318
+Monaco Grand Prix,Linear Regression,0.3,0.65,50,0.0,6.4987,Stay Out,6.156
+Monaco Grand Prix,Linear Regression,0.5,0.25,19,0.1333,5.9633,Early 1-Stop,6.5116
+Monaco Grand Prix,Linear Regression,0.5,0.35,27,0.0333,9.5666,Early 1-Stop,10.7602
+Monaco Grand Prix,Linear Regression,0.5,0.45,35,0.1333,5.228,Early 1-Stop,6.3261
+Monaco Grand Prix,Linear Regression,0.5,0.55,42,0.6333,4.7286,Early 1-Stop,0.8318
+Monaco Grand Prix,Linear Regression,0.5,0.65,50,0.0333,5.6285,Stay Out,6.156
+Monaco Grand Prix,Linear Regression,0.75,0.25,19,0.1667,8.8989,Early 1-Stop,6.5116
+Monaco Grand Prix,Linear Regression,0.75,0.35,27,0.0667,10.3131,Early 1-Stop,10.7602
+Monaco Grand Prix,Linear Regression,0.75,0.45,35,0.1667,5.5593,Early 1-Stop,6.3261
+Monaco Grand Prix,Linear Regression,0.75,0.55,42,0.6667,5.4849,Early 1-Stop,0.8318
+Monaco Grand Prix,Linear Regression,0.75,0.65,50,0.1333,6.4093,Stay Out,6.156
+Monaco Grand Prix,Linear Regression,1.0,0.25,19,0.2333,9.6944,Early 1-Stop,6.5116
+Monaco Grand Prix,Linear Regression,1.0,0.35,27,0.3,8.8689,Early 1-Stop,10.7602
+Monaco Grand Prix,Linear Regression,1.0,0.45,35,0.3667,6.248,Early 1-Stop,6.3261
+Monaco Grand Prix,Linear Regression,1.0,0.55,42,0.4667,6.4232,Early 1-Stop,0.8318
+Monaco Grand Prix,Linear Regression,1.0,0.65,50,0.2333,6.1009,Stay Out,6.156
+Monaco Grand Prix,Linear Regression,1.5,0.25,19,0.4667,7.8944,Early 1-Stop,6.5116
+Monaco Grand Prix,Linear Regression,1.5,0.35,27,0.4333,7.1385,Early 1-Stop,10.7602
+Monaco Grand Prix,Linear Regression,1.5,0.45,35,0.4667,6.8468,Early 1-Stop,6.3261
+Monaco Grand Prix,Linear Regression,1.5,0.55,42,0.6333,7.4262,Early 1-Stop,0.8318
+Monaco Grand Prix,Linear Regression,1.5,0.65,50,0.3,7.1285,Stay Out,6.156
+Monaco Grand Prix,Linear Regression,2.0,0.25,19,0.4,12.3244,Early 1-Stop,6.5116
+Monaco Grand Prix,Linear Regression,2.0,0.35,27,0.4667,10.9668,Early 1-Stop,10.7602
+Monaco Grand Prix,Linear Regression,2.0,0.45,35,0.5333,10.4726,Early 1-Stop,6.3261
+Monaco Grand Prix,Linear Regression,2.0,0.55,42,0.6,11.4319,Early 1-Stop,0.8318
+Monaco Grand Prix,Linear Regression,2.0,0.65,50,0.5333,9.5664,Stay Out,6.156
+Monaco Grand Prix,Ridge Regression,0.0,0.25,19,0.0,6.1204,Early 1-Stop,6.1204
+Monaco Grand Prix,Ridge Regression,0.0,0.35,27,0.0,10.4013,Early 1-Stop,10.4013
+Monaco Grand Prix,Ridge Regression,0.0,0.45,35,0.0,5.8021,Early 1-Stop,5.8021
+Monaco Grand Prix,Ridge Regression,0.0,0.55,42,0.0,0.4853,Early 1-Stop,0.4853
+Monaco Grand Prix,Ridge Regression,0.0,0.65,50,0.0,6.3487,Stay Out,6.3487
+Monaco Grand Prix,Ridge Regression,0.1,0.25,19,0.0,6.4225,Early 1-Stop,6.1204
+Monaco Grand Prix,Ridge Regression,0.1,0.35,27,0.0,10.0528,Early 1-Stop,10.4013
+Monaco Grand Prix,Ridge Regression,0.1,0.45,35,0.0,5.8619,Early 1-Stop,5.8021
+Monaco Grand Prix,Ridge Regression,0.1,0.55,42,0.1667,1.0271,Early 1-Stop,0.4853
+Monaco Grand Prix,Ridge Regression,0.1,0.65,50,0.0,6.3459,Stay Out,6.3487
+Monaco Grand Prix,Ridge Regression,0.2,0.25,19,0.0,6.9926,Early 1-Stop,6.1204
+Monaco Grand Prix,Ridge Regression,0.2,0.35,27,0.0,10.2686,Early 1-Stop,10.4013
+Monaco Grand Prix,Ridge Regression,0.2,0.45,35,0.0,6.0896,Early 1-Stop,5.8021
+Monaco Grand Prix,Ridge Regression,0.2,0.55,42,0.3,1.527,Early 1-Stop,0.4853
+Monaco Grand Prix,Ridge Regression,0.2,0.65,50,0.0,6.1505,Stay Out,6.3487
+Monaco Grand Prix,Ridge Regression,0.3,0.25,19,0.0667,6.224,Early 1-Stop,6.1204
+Monaco Grand Prix,Ridge Regression,0.3,0.35,27,0.0,8.7982,Early 1-Stop,10.4013
+Monaco Grand Prix,Ridge Regression,0.3,0.45,35,0.0,6.1206,Early 1-Stop,5.8021
+Monaco Grand Prix,Ridge Regression,0.3,0.55,42,0.4333,1.449,Early 1-Stop,0.4853
+Monaco Grand Prix,Ridge Regression,0.3,0.65,50,0.0,5.6384,Stay Out,6.3487
+Monaco Grand Prix,Ridge Regression,0.5,0.25,19,0.1,6.0776,Early 1-Stop,6.1204
+Monaco Grand Prix,Ridge Regression,0.5,0.35,27,0.0667,8.3862,Early 1-Stop,10.4013
+Monaco Grand Prix,Ridge Regression,0.5,0.45,35,0.1,4.848,Early 1-Stop,5.8021
+Monaco Grand Prix,Ridge Regression,0.5,0.55,42,0.5333,3.5703,Early 1-Stop,0.4853
+Monaco Grand Prix,Ridge Regression,0.5,0.65,50,0.1333,5.0994,Stay Out,6.3487
+Monaco Grand Prix,Ridge Regression,0.75,0.25,19,0.2333,8.1159,Early 1-Stop,6.1204
+Monaco Grand Prix,Ridge Regression,0.75,0.35,27,0.1333,7.0725,Early 1-Stop,10.4013
+Monaco Grand Prix,Ridge Regression,0.75,0.45,35,0.1333,6.2692,Early 1-Stop,5.8021
+Monaco Grand Prix,Ridge Regression,0.75,0.55,42,0.4333,4.067,Early 1-Stop,0.4853
+Monaco Grand Prix,Ridge Regression,0.75,0.65,50,0.1667,7.6464,Stay Out,6.3487
+Monaco Grand Prix,Ridge Regression,1.0,0.25,19,0.2667,8.9053,Early 1-Stop,6.1204
+Monaco Grand Prix,Ridge Regression,1.0,0.35,27,0.2667,8.0374,Early 1-Stop,10.4013
+Monaco Grand Prix,Ridge Regression,1.0,0.45,35,0.4,6.7653,Early 1-Stop,5.8021
+Monaco Grand Prix,Ridge Regression,1.0,0.55,42,0.6,5.7672,Early 1-Stop,0.4853
+Monaco Grand Prix,Ridge Regression,1.0,0.65,50,0.1333,8.2354,Stay Out,6.3487
+Monaco Grand Prix,Ridge Regression,1.5,0.25,19,0.5333,9.6122,Early 1-Stop,6.1204
+Monaco Grand Prix,Ridge Regression,1.5,0.35,27,0.3333,10.6839,Early 1-Stop,10.4013
+Monaco Grand Prix,Ridge Regression,1.5,0.45,35,0.4667,8.7847,Early 1-Stop,5.8021
+Monaco Grand Prix,Ridge Regression,1.5,0.55,42,0.7,6.2622,Early 1-Stop,0.4853
+Monaco Grand Prix,Ridge Regression,1.5,0.65,50,0.4,8.8815,Stay Out,6.3487
+Monaco Grand Prix,Ridge Regression,2.0,0.25,19,0.6,11.5875,Early 1-Stop,6.1204
+Monaco Grand Prix,Ridge Regression,2.0,0.35,27,0.4333,13.398,Early 1-Stop,10.4013
+Monaco Grand Prix,Ridge Regression,2.0,0.45,35,0.6333,8.9246,Early 1-Stop,5.8021
+Monaco Grand Prix,Ridge Regression,2.0,0.55,42,0.6,10.6922,Early 1-Stop,0.4853
+Monaco Grand Prix,Ridge Regression,2.0,0.65,50,0.3,10.4939,Stay Out,6.3487
+Monaco Grand Prix,Gradient Boosting,0.0,0.25,19,0.0,5.3775,Stay Out,5.3775
+Monaco Grand Prix,Gradient Boosting,0.0,0.35,27,0.0,6.3115,Stay Out,6.3115
+Monaco Grand Prix,Gradient Boosting,0.0,0.45,35,0.0,8.0264,Stay Out,8.0264
+Monaco Grand Prix,Gradient Boosting,0.0,0.55,42,0.0,9.3575,Stay Out,9.3575
+Monaco Grand Prix,Gradient Boosting,0.0,0.65,50,0.0,12.6312,Stay Out,12.6312
+Monaco Grand Prix,Gradient Boosting,0.1,0.25,19,0.0,4.8943,Stay Out,5.3775
+Monaco Grand Prix,Gradient Boosting,0.1,0.35,27,0.0,6.1549,Stay Out,6.3115
+Monaco Grand Prix,Gradient Boosting,0.1,0.45,35,0.0,8.1118,Stay Out,8.0264
+Monaco Grand Prix,Gradient Boosting,0.1,0.55,42,0.0,9.3658,Stay Out,9.3575
+Monaco Grand Prix,Gradient Boosting,0.1,0.65,50,0.0,12.3765,Stay Out,12.6312
+Monaco Grand Prix,Gradient Boosting,0.2,0.25,19,0.0,5.1027,Stay Out,5.3775
+Monaco Grand Prix,Gradient Boosting,0.2,0.35,27,0.0,5.9243,Stay Out,6.3115
+Monaco Grand Prix,Gradient Boosting,0.2,0.45,35,0.0,7.8707,Stay Out,8.0264
+Monaco Grand Prix,Gradient Boosting,0.2,0.55,42,0.0,9.4384,Stay Out,9.3575
+Monaco Grand Prix,Gradient Boosting,0.2,0.65,50,0.0,11.7655,Stay Out,12.6312
+Monaco Grand Prix,Gradient Boosting,0.3,0.25,19,0.0667,4.0677,Stay Out,5.3775
+Monaco Grand Prix,Gradient Boosting,0.3,0.35,27,0.0333,4.8483,Stay Out,6.3115
+Monaco Grand Prix,Gradient Boosting,0.3,0.45,35,0.0,7.0538,Stay Out,8.0264
+Monaco Grand Prix,Gradient Boosting,0.3,0.55,42,0.0,9.5967,Stay Out,9.3575
+Monaco Grand Prix,Gradient Boosting,0.3,0.65,50,0.0,11.6171,Stay Out,12.6312
+Monaco Grand Prix,Gradient Boosting,0.5,0.25,19,0.1333,4.7564,Stay Out,5.3775
+Monaco Grand Prix,Gradient Boosting,0.5,0.35,27,0.0333,4.8173,Stay Out,6.3115
+Monaco Grand Prix,Gradient Boosting,0.5,0.45,35,0.0333,5.9473,Stay Out,8.0264
+Monaco Grand Prix,Gradient Boosting,0.5,0.55,42,0.0,9.1517,Stay Out,9.3575
+Monaco Grand Prix,Gradient Boosting,0.5,0.65,50,0.0,9.7237,Stay Out,12.6312
+Monaco Grand Prix,Gradient Boosting,0.75,0.25,19,0.4,5.5376,Stay Out,5.3775
+Monaco Grand Prix,Gradient Boosting,0.75,0.35,27,0.3667,5.1372,Stay Out,6.3115
+Monaco Grand Prix,Gradient Boosting,0.75,0.45,35,0.1667,8.2166,Stay Out,8.0264
+Monaco Grand Prix,Gradient Boosting,0.75,0.55,42,0.1,7.9258,Stay Out,9.3575
+Monaco Grand Prix,Gradient Boosting,0.75,0.65,50,0.0,10.9678,Stay Out,12.6312
+Monaco Grand Prix,Gradient Boosting,1.0,0.25,19,0.5333,5.6836,Stay Out,5.3775
+Monaco Grand Prix,Gradient Boosting,1.0,0.35,27,0.4333,4.3325,Stay Out,6.3115
+Monaco Grand Prix,Gradient Boosting,1.0,0.45,35,0.3,7.2753,Stay Out,8.0264
+Monaco Grand Prix,Gradient Boosting,1.0,0.55,42,0.2333,8.6133,Stay Out,9.3575
+Monaco Grand Prix,Gradient Boosting,1.0,0.65,50,0.2667,8.932,Stay Out,12.6312
+Monaco Grand Prix,Gradient Boosting,1.5,0.25,19,0.6,8.5301,Stay Out,5.3775
+Monaco Grand Prix,Gradient Boosting,1.5,0.35,27,0.6,8.0188,Stay Out,6.3115
+Monaco Grand Prix,Gradient Boosting,1.5,0.45,35,0.4333,9.08,Stay Out,8.0264
+Monaco Grand Prix,Gradient Boosting,1.5,0.55,42,0.3333,7.202,Stay Out,9.3575
+Monaco Grand Prix,Gradient Boosting,1.5,0.65,50,0.2,10.0831,Stay Out,12.6312
+Monaco Grand Prix,Gradient Boosting,2.0,0.25,19,0.8333,11.1843,Stay Out,5.3775
+Monaco Grand Prix,Gradient Boosting,2.0,0.35,27,0.6333,9.2565,Stay Out,6.3115
+Monaco Grand Prix,Gradient Boosting,2.0,0.45,35,0.6333,7.3128,Stay Out,8.0264
+Monaco Grand Prix,Gradient Boosting,2.0,0.55,42,0.4,7.8285,Stay Out,9.3575
+Monaco Grand Prix,Gradient Boosting,2.0,0.65,50,0.4667,9.4509,Stay Out,12.6312
+Monaco Grand Prix,XGBoost,0.0,0.25,19,0.0,5.3579,Stay Out,5.357900142669678
+Monaco Grand Prix,XGBoost,0.0,0.35,27,0.0,6.637,Stay Out,6.63700008392334
+Monaco Grand Prix,XGBoost,0.0,0.45,35,0.0,8.2913,Stay Out,8.291299819946289
+Monaco Grand Prix,XGBoost,0.0,0.55,42,0.0,9.1211,Stay Out,9.121100425720215
+Monaco Grand Prix,XGBoost,0.0,0.65,50,0.0,12.5315,Stay Out,12.531499862670898
+Monaco Grand Prix,XGBoost,0.1,0.25,19,0.0,5.1668,Stay Out,5.357900142669678
+Monaco Grand Prix,XGBoost,0.1,0.35,27,0.0,6.8652,Stay Out,6.63700008392334
+Monaco Grand Prix,XGBoost,0.1,0.45,35,0.0,8.3147,Stay Out,8.291299819946289
+Monaco Grand Prix,XGBoost,0.1,0.55,42,0.0,8.9441,Stay Out,9.121100425720215
+Monaco Grand Prix,XGBoost,0.1,0.65,50,0.0,12.3853,Stay Out,12.531499862670898
+Monaco Grand Prix,XGBoost,0.2,0.25,19,0.0,4.7595,Stay Out,5.357900142669678
+Monaco Grand Prix,XGBoost,0.2,0.35,27,0.0,5.6784,Stay Out,6.63700008392334
+Monaco Grand Prix,XGBoost,0.2,0.45,35,0.0,8.0594,Stay Out,8.291299819946289
+Monaco Grand Prix,XGBoost,0.2,0.55,42,0.0,8.6003,Stay Out,9.121100425720215
+Monaco Grand Prix,XGBoost,0.2,0.65,50,0.0,11.9677,Stay Out,12.531499862670898
+Monaco Grand Prix,XGBoost,0.3,0.25,19,0.0333,4.7356,Stay Out,5.357900142669678
+Monaco Grand Prix,XGBoost,0.3,0.35,27,0.0667,6.2372,Stay Out,6.63700008392334
+Monaco Grand Prix,XGBoost,0.3,0.45,35,0.0,7.2733,Stay Out,8.291299819946289
+Monaco Grand Prix,XGBoost,0.3,0.55,42,0.0,8.2,Stay Out,9.121100425720215
+Monaco Grand Prix,XGBoost,0.3,0.65,50,0.0,12.0277,Stay Out,12.531499862670898
+Monaco Grand Prix,XGBoost,0.5,0.25,19,0.1333,5.9024,Stay Out,5.357900142669678
+Monaco Grand Prix,XGBoost,0.5,0.35,27,0.0333,4.6568,Stay Out,6.63700008392334
+Monaco Grand Prix,XGBoost,0.5,0.45,35,0.0333,6.9335,Stay Out,8.291299819946289
+Monaco Grand Prix,XGBoost,0.5,0.55,42,0.0,9.5771,Stay Out,9.121100425720215
+Monaco Grand Prix,XGBoost,0.5,0.65,50,0.0,9.2648,Stay Out,12.531499862670898
+Monaco Grand Prix,XGBoost,0.75,0.25,19,0.4667,5.9331,Stay Out,5.357900142669678
+Monaco Grand Prix,XGBoost,0.75,0.35,27,0.3333,6.0291,Stay Out,6.63700008392334
+Monaco Grand Prix,XGBoost,0.75,0.45,35,0.3,6.0028,Stay Out,8.291299819946289
+Monaco Grand Prix,XGBoost,0.75,0.55,42,0.1333,7.3617,Stay Out,9.121100425720215
+Monaco Grand Prix,XGBoost,0.75,0.65,50,0.0333,11.3423,Stay Out,12.531499862670898
+Monaco Grand Prix,XGBoost,1.0,0.25,19,0.4333,4.6938,Stay Out,5.357900142669678
+Monaco Grand Prix,XGBoost,1.0,0.35,27,0.3,7.1363,Stay Out,6.63700008392334
+Monaco Grand Prix,XGBoost,1.0,0.45,35,0.4,6.8561,Stay Out,8.291299819946289
+Monaco Grand Prix,XGBoost,1.0,0.55,42,0.2,5.2582,Stay Out,9.121100425720215
+Monaco Grand Prix,XGBoost,1.0,0.65,50,0.0333,10.5285,Stay Out,12.531499862670898
+Monaco Grand Prix,XGBoost,1.5,0.25,19,0.4667,9.6518,Stay Out,5.357900142669678
+Monaco Grand Prix,XGBoost,1.5,0.35,27,0.6333,7.7294,Stay Out,6.63700008392334
+Monaco Grand Prix,XGBoost,1.5,0.45,35,0.4333,7.4171,Stay Out,8.291299819946289
+Monaco Grand Prix,XGBoost,1.5,0.55,42,0.4667,6.1551,Stay Out,9.121100425720215
+Monaco Grand Prix,XGBoost,1.5,0.65,50,0.2,10.1415,Stay Out,12.531499862670898
+Monaco Grand Prix,XGBoost,2.0,0.25,19,0.7333,13.0614,Stay Out,5.357900142669678
+Monaco Grand Prix,XGBoost,2.0,0.35,27,0.5,10.4145,Stay Out,6.63700008392334
+Monaco Grand Prix,XGBoost,2.0,0.45,35,0.5667,10.4435,Stay Out,8.291299819946289
+Monaco Grand Prix,XGBoost,2.0,0.55,42,0.6,8.0838,Stay Out,9.121100425720215
+Monaco Grand Prix,XGBoost,2.0,0.65,50,0.3333,11.31,Stay Out,12.531499862670898
+Hungarian Grand Prix,Linear Regression,0.0,0.25,17,0.0,21.7874,2-Stop,21.7874
+Hungarian Grand Prix,Linear Regression,0.0,0.35,24,0.0,10.6795,2-Stop,10.6795
+Hungarian Grand Prix,Linear Regression,0.0,0.45,31,0.0,2.45,2-Stop,2.45
+Hungarian Grand Prix,Linear Regression,0.0,0.55,38,0.0,2.6427,Early 1-Stop,2.6427
+Hungarian Grand Prix,Linear Regression,0.0,0.65,45,0.0,7.5188,Stay Out,7.5188
+Hungarian Grand Prix,Linear Regression,0.1,0.25,17,0.0,21.5775,2-Stop,21.7874
+Hungarian Grand Prix,Linear Regression,0.1,0.35,24,0.0,10.7517,2-Stop,10.6795
+Hungarian Grand Prix,Linear Regression,0.1,0.45,31,0.0,2.6214,2-Stop,2.45
+Hungarian Grand Prix,Linear Regression,0.1,0.55,38,0.0,2.5184,Early 1-Stop,2.6427
+Hungarian Grand Prix,Linear Regression,0.1,0.65,45,0.0,7.5818,Stay Out,7.5188
+Hungarian Grand Prix,Linear Regression,0.2,0.25,17,0.0,22.0001,2-Stop,21.7874
+Hungarian Grand Prix,Linear Regression,0.2,0.35,24,0.0,10.5633,2-Stop,10.6795
+Hungarian Grand Prix,Linear Regression,0.2,0.45,31,0.0667,2.7177,2-Stop,2.45
+Hungarian Grand Prix,Linear Regression,0.2,0.55,38,0.0667,2.2954,Early 1-Stop,2.6427
+Hungarian Grand Prix,Linear Regression,0.2,0.65,45,0.0,7.5464,Stay Out,7.5188
+Hungarian Grand Prix,Linear Regression,0.3,0.25,17,0.0,22.0815,2-Stop,21.7874
+Hungarian Grand Prix,Linear Regression,0.3,0.35,24,0.0,10.7024,2-Stop,10.6795
+Hungarian Grand Prix,Linear Regression,0.3,0.45,31,0.1333,3.0191,2-Stop,2.45
+Hungarian Grand Prix,Linear Regression,0.3,0.55,38,0.1,2.6668,Early 1-Stop,2.6427
+Hungarian Grand Prix,Linear Regression,0.3,0.65,45,0.0,7.7608,Stay Out,7.5188
+Hungarian Grand Prix,Linear Regression,0.5,0.25,17,0.0,20.7276,2-Stop,21.7874
+Hungarian Grand Prix,Linear Regression,0.5,0.35,24,0.0,9.5047,2-Stop,10.6795
+Hungarian Grand Prix,Linear Regression,0.5,0.45,31,0.3333,4.0904,2-Stop,2.45
+Hungarian Grand Prix,Linear Regression,0.5,0.55,38,0.3333,3.3129,Early 1-Stop,2.6427
+Hungarian Grand Prix,Linear Regression,0.5,0.65,45,0.0333,8.0996,Stay Out,7.5188
+Hungarian Grand Prix,Linear Regression,0.75,0.25,17,0.0,21.1566,2-Stop,21.7874
+Hungarian Grand Prix,Linear Regression,0.75,0.35,24,0.0667,9.027,2-Stop,10.6795
+Hungarian Grand Prix,Linear Regression,0.75,0.45,31,0.4333,4.58,2-Stop,2.45
+Hungarian Grand Prix,Linear Regression,0.75,0.55,38,0.6333,3.0101,Early 1-Stop,2.6427
+Hungarian Grand Prix,Linear Regression,0.75,0.65,45,0.1,6.6131,Stay Out,7.5188
+Hungarian Grand Prix,Linear Regression,1.0,0.25,17,0.0,19.4025,2-Stop,21.7874
+Hungarian Grand Prix,Linear Regression,1.0,0.35,24,0.2667,9.2194,2-Stop,10.6795
+Hungarian Grand Prix,Linear Regression,1.0,0.45,31,0.3667,6.0131,2-Stop,2.45
+Hungarian Grand Prix,Linear Regression,1.0,0.55,38,0.3667,4.593,Early 1-Stop,2.6427
+Hungarian Grand Prix,Linear Regression,1.0,0.65,45,0.2,7.2795,Stay Out,7.5188
+Hungarian Grand Prix,Linear Regression,1.5,0.25,17,0.1333,17.3264,2-Stop,21.7874
+Hungarian Grand Prix,Linear Regression,1.5,0.35,24,0.4333,10.5054,2-Stop,10.6795
+Hungarian Grand Prix,Linear Regression,1.5,0.45,31,0.5667,7.687,2-Stop,2.45
+Hungarian Grand Prix,Linear Regression,1.5,0.55,38,0.6333,5.4006,Early 1-Stop,2.6427
+Hungarian Grand Prix,Linear Regression,1.5,0.65,45,0.2667,7.7443,Stay Out,7.5188
+Hungarian Grand Prix,Linear Regression,2.0,0.25,17,0.1333,19.2501,2-Stop,21.7874
+Hungarian Grand Prix,Linear Regression,2.0,0.35,24,0.3333,17.1398,2-Stop,10.6795
+Hungarian Grand Prix,Linear Regression,2.0,0.45,31,0.5667,7.4734,2-Stop,2.45
+Hungarian Grand Prix,Linear Regression,2.0,0.55,38,0.6,8.6264,Early 1-Stop,2.6427
+Hungarian Grand Prix,Linear Regression,2.0,0.65,45,0.5333,9.1586,Stay Out,7.5188
+Hungarian Grand Prix,Ridge Regression,0.0,0.25,17,0.0,21.7465,2-Stop,21.7465
+Hungarian Grand Prix,Ridge Regression,0.0,0.35,24,0.0,10.6445,2-Stop,10.6445
+Hungarian Grand Prix,Ridge Regression,0.0,0.45,31,0.0,2.4195,2-Stop,2.4195
+Hungarian Grand Prix,Ridge Regression,0.0,0.55,38,0.0,2.7248,Early 1-Stop,2.7248
+Hungarian Grand Prix,Ridge Regression,0.0,0.65,45,0.0,7.4565,Stay Out,7.4565
+Hungarian Grand Prix,Ridge Regression,0.1,0.25,17,0.0,21.886,2-Stop,21.7465
+Hungarian Grand Prix,Ridge Regression,0.1,0.35,24,0.0,10.499,2-Stop,10.6445
+Hungarian Grand Prix,Ridge Regression,0.1,0.45,31,0.0,2.6106,2-Stop,2.4195
+Hungarian Grand Prix,Ridge Regression,0.1,0.55,38,0.0,2.3912,Early 1-Stop,2.7248
+Hungarian Grand Prix,Ridge Regression,0.1,0.65,45,0.0,7.3983,Stay Out,7.4565
+Hungarian Grand Prix,Ridge Regression,0.2,0.25,17,0.0,22.0188,2-Stop,21.7465
+Hungarian Grand Prix,Ridge Regression,0.2,0.35,24,0.0,10.5006,2-Stop,10.6445
+Hungarian Grand Prix,Ridge Regression,0.2,0.45,31,0.0667,2.5193,2-Stop,2.4195
+Hungarian Grand Prix,Ridge Regression,0.2,0.55,38,0.0,2.5927,Early 1-Stop,2.7248
+Hungarian Grand Prix,Ridge Regression,0.2,0.65,45,0.0,7.0675,Stay Out,7.4565
+Hungarian Grand Prix,Ridge Regression,0.3,0.25,17,0.0,21.7142,2-Stop,21.7465
+Hungarian Grand Prix,Ridge Regression,0.3,0.35,24,0.0,9.7708,2-Stop,10.6445
+Hungarian Grand Prix,Ridge Regression,0.3,0.45,31,0.2333,2.5907,2-Stop,2.4195
+Hungarian Grand Prix,Ridge Regression,0.3,0.55,38,0.1,1.9371,Early 1-Stop,2.7248
+Hungarian Grand Prix,Ridge Regression,0.3,0.65,45,0.0,6.9852,Stay Out,7.4565
+Hungarian Grand Prix,Ridge Regression,0.5,0.25,17,0.0,21.7663,2-Stop,21.7465
+Hungarian Grand Prix,Ridge Regression,0.5,0.35,24,0.0,10.1743,2-Stop,10.6445
+Hungarian Grand Prix,Ridge Regression,0.5,0.45,31,0.2667,2.686,2-Stop,2.4195
+Hungarian Grand Prix,Ridge Regression,0.5,0.55,38,0.2,2.7895,Early 1-Stop,2.7248
+Hungarian Grand Prix,Ridge Regression,0.5,0.65,45,0.0333,6.3393,Stay Out,7.4565
+Hungarian Grand Prix,Ridge Regression,0.75,0.25,17,0.0,22.2821,2-Stop,21.7465
+Hungarian Grand Prix,Ridge Regression,0.75,0.35,24,0.1,8.4325,2-Stop,10.6445
+Hungarian Grand Prix,Ridge Regression,0.75,0.45,31,0.5,3.581,2-Stop,2.4195
+Hungarian Grand Prix,Ridge Regression,0.75,0.55,38,0.4333,3.2687,Early 1-Stop,2.7248
+Hungarian Grand Prix,Ridge Regression,0.75,0.65,45,0.0667,8.1203,Stay Out,7.4565
+Hungarian Grand Prix,Ridge Regression,1.0,0.25,17,0.0333,21.9017,2-Stop,21.7465
+Hungarian Grand Prix,Ridge Regression,1.0,0.35,24,0.1333,8.9502,2-Stop,10.6445
+Hungarian Grand Prix,Ridge Regression,1.0,0.45,31,0.4,7.8919,2-Stop,2.4195
+Hungarian Grand Prix,Ridge Regression,1.0,0.55,38,0.7,4.0548,Early 1-Stop,2.7248
+Hungarian Grand Prix,Ridge Regression,1.0,0.65,45,0.1,6.7137,Stay Out,7.4565
+Hungarian Grand Prix,Ridge Regression,1.5,0.25,17,0.1,15.8459,2-Stop,21.7465
+Hungarian Grand Prix,Ridge Regression,1.5,0.35,24,0.3,11.2555,2-Stop,10.6445
+Hungarian Grand Prix,Ridge Regression,1.5,0.45,31,0.4667,8.224,2-Stop,2.4195
+Hungarian Grand Prix,Ridge Regression,1.5,0.55,38,0.6333,7.2429,Early 1-Stop,2.7248
+Hungarian Grand Prix,Ridge Regression,1.5,0.65,45,0.4333,6.3233,Stay Out,7.4565
+Hungarian Grand Prix,Ridge Regression,2.0,0.25,17,0.3333,16.6564,2-Stop,21.7465
+Hungarian Grand Prix,Ridge Regression,2.0,0.35,24,0.5,10.4825,2-Stop,10.6445
+Hungarian Grand Prix,Ridge Regression,2.0,0.45,31,0.6667,7.8197,2-Stop,2.4195
+Hungarian Grand Prix,Ridge Regression,2.0,0.55,38,0.6,8.6565,Early 1-Stop,2.7248
+Hungarian Grand Prix,Ridge Regression,2.0,0.65,45,0.3667,7.6858,Stay Out,7.4565
+Hungarian Grand Prix,Gradient Boosting,0.0,0.25,17,0.0,0.1059,Early 1-Stop,0.1059
+Hungarian Grand Prix,Gradient Boosting,0.0,0.35,24,0.0,1.1685,Late 1-Stop,1.1685
+Hungarian Grand Prix,Gradient Boosting,0.0,0.45,31,0.0,0.8514,Mid 1-Stop,0.8514
+Hungarian Grand Prix,Gradient Boosting,0.0,0.55,38,0.0,1.0594,Stay Out,1.0594
+Hungarian Grand Prix,Gradient Boosting,0.0,0.65,45,0.0,4.8528,Stay Out,4.8528
+Hungarian Grand Prix,Gradient Boosting,0.1,0.25,17,0.3333,0.69,Early 1-Stop,0.1059
+Hungarian Grand Prix,Gradient Boosting,0.1,0.35,24,0.2333,0.9903,Late 1-Stop,1.1685
+Hungarian Grand Prix,Gradient Boosting,0.1,0.45,31,0.3333,0.8866,Mid 1-Stop,0.8514
+Hungarian Grand Prix,Gradient Boosting,0.1,0.55,38,0.0667,1.0703,Stay Out,1.0594
+Hungarian Grand Prix,Gradient Boosting,0.1,0.65,45,0.0,4.5744,Stay Out,4.8528
+Hungarian Grand Prix,Gradient Boosting,0.2,0.25,17,0.3333,1.4238,Early 1-Stop,0.1059
+Hungarian Grand Prix,Gradient Boosting,0.2,0.35,24,0.2333,1.5299,Late 1-Stop,1.1685
+Hungarian Grand Prix,Gradient Boosting,0.2,0.45,31,0.3,1.707,Mid 1-Stop,0.8514
+Hungarian Grand Prix,Gradient Boosting,0.2,0.55,38,0.2,1.2854,Stay Out,1.0594
+Hungarian Grand Prix,Gradient Boosting,0.2,0.65,45,0.0,4.6015,Stay Out,4.8528
+Hungarian Grand Prix,Gradient Boosting,0.3,0.25,17,0.4333,2.6058,Early 1-Stop,0.1059
+Hungarian Grand Prix,Gradient Boosting,0.3,0.35,24,0.5333,1.7544,Late 1-Stop,1.1685
+Hungarian Grand Prix,Gradient Boosting,0.3,0.45,31,0.5333,1.6898,Mid 1-Stop,0.8514
+Hungarian Grand Prix,Gradient Boosting,0.3,0.55,38,0.4667,1.7964,Stay Out,1.0594
+Hungarian Grand Prix,Gradient Boosting,0.3,0.65,45,0.0,4.3956,Stay Out,4.8528
+Hungarian Grand Prix,Gradient Boosting,0.5,0.25,17,0.4667,3.7539,Early 1-Stop,0.1059
+Hungarian Grand Prix,Gradient Boosting,0.5,0.35,24,0.5,2.7833,Late 1-Stop,1.1685
+Hungarian Grand Prix,Gradient Boosting,0.5,0.45,31,0.6,2.1845,Mid 1-Stop,0.8514
+Hungarian Grand Prix,Gradient Boosting,0.5,0.55,38,0.6,1.7749,Stay Out,1.0594
+Hungarian Grand Prix,Gradient Boosting,0.5,0.65,45,0.1667,4.6215,Stay Out,4.8528
+Hungarian Grand Prix,Gradient Boosting,0.75,0.25,17,0.5333,4.7744,Early 1-Stop,0.1059
+Hungarian Grand Prix,Gradient Boosting,0.75,0.35,24,0.7,4.1773,Late 1-Stop,1.1685
+Hungarian Grand Prix,Gradient Boosting,0.75,0.45,31,0.6,4.6714,Mid 1-Stop,0.8514
+Hungarian Grand Prix,Gradient Boosting,0.75,0.55,38,0.6,3.5652,Stay Out,1.0594
+Hungarian Grand Prix,Gradient Boosting,0.75,0.65,45,0.3,4.6724,Stay Out,4.8528
+Hungarian Grand Prix,Gradient Boosting,1.0,0.25,17,0.5667,5.8198,Early 1-Stop,0.1059
+Hungarian Grand Prix,Gradient Boosting,1.0,0.35,24,0.6333,6.8663,Late 1-Stop,1.1685
+Hungarian Grand Prix,Gradient Boosting,1.0,0.45,31,0.4667,4.6973,Mid 1-Stop,0.8514
+Hungarian Grand Prix,Gradient Boosting,1.0,0.55,38,0.6667,3.5118,Stay Out,1.0594
+Hungarian Grand Prix,Gradient Boosting,1.0,0.65,45,0.4,4.9353,Stay Out,4.8528
+Hungarian Grand Prix,Gradient Boosting,1.5,0.25,17,0.6667,8.8988,Early 1-Stop,0.1059
+Hungarian Grand Prix,Gradient Boosting,1.5,0.35,24,0.7,8.3137,Late 1-Stop,1.1685
+Hungarian Grand Prix,Gradient Boosting,1.5,0.45,31,0.5,7.7429,Mid 1-Stop,0.8514
+Hungarian Grand Prix,Gradient Boosting,1.5,0.55,38,0.6333,6.8026,Stay Out,1.0594
+Hungarian Grand Prix,Gradient Boosting,1.5,0.65,45,0.4333,5.1513,Stay Out,4.8528
+Hungarian Grand Prix,Gradient Boosting,2.0,0.25,17,0.6667,13.2008,Early 1-Stop,0.1059
+Hungarian Grand Prix,Gradient Boosting,2.0,0.35,24,0.6333,11.5051,Late 1-Stop,1.1685
+Hungarian Grand Prix,Gradient Boosting,2.0,0.45,31,0.7333,11.481,Mid 1-Stop,0.8514
+Hungarian Grand Prix,Gradient Boosting,2.0,0.55,38,0.5667,5.9444,Stay Out,1.0594
+Hungarian Grand Prix,Gradient Boosting,2.0,0.65,45,0.4333,9.0239,Stay Out,4.8528
+Hungarian Grand Prix,XGBoost,0.0,0.25,17,0.0,1.356,Late 1-Stop,1.3559999465942383
+Hungarian Grand Prix,XGBoost,0.0,0.35,24,0.0,2.0728,Late 1-Stop,2.0727999210357666
+Hungarian Grand Prix,XGBoost,0.0,0.45,31,0.0,0.9182,Mid 1-Stop,0.9182000160217285
+Hungarian Grand Prix,XGBoost,0.0,0.55,38,0.0,1.5164,Stay Out,1.5163999795913696
+Hungarian Grand Prix,XGBoost,0.0,0.65,45,0.0,2.9121,Stay Out,2.912100076675415
+Hungarian Grand Prix,XGBoost,0.1,0.25,17,0.1,1.637,Late 1-Stop,1.3559999465942383
+Hungarian Grand Prix,XGBoost,0.1,0.35,24,0.0333,2.1926,Late 1-Stop,2.0727999210357666
+Hungarian Grand Prix,XGBoost,0.1,0.45,31,0.0667,1.3218,Mid 1-Stop,0.9182000160217285
+Hungarian Grand Prix,XGBoost,0.1,0.55,38,0.0333,1.7406,Stay Out,1.5163999795913696
+Hungarian Grand Prix,XGBoost,0.1,0.65,45,0.0,2.9666,Stay Out,2.912100076675415
+Hungarian Grand Prix,XGBoost,0.2,0.25,17,0.3,1.8446,Late 1-Stop,1.3559999465942383
+Hungarian Grand Prix,XGBoost,0.2,0.35,24,0.2,2.2582,Late 1-Stop,2.0727999210357666
+Hungarian Grand Prix,XGBoost,0.2,0.45,31,0.4,1.5209,Mid 1-Stop,0.9182000160217285
+Hungarian Grand Prix,XGBoost,0.2,0.55,38,0.1667,1.5629,Stay Out,1.5163999795913696
+Hungarian Grand Prix,XGBoost,0.2,0.65,45,0.0,3.0681,Stay Out,2.912100076675415
+Hungarian Grand Prix,XGBoost,0.3,0.25,17,0.4,2.5223,Late 1-Stop,1.3559999465942383
+Hungarian Grand Prix,XGBoost,0.3,0.35,24,0.2,2.8341,Late 1-Stop,2.0727999210357666
+Hungarian Grand Prix,XGBoost,0.3,0.45,31,0.4,2.1166,Mid 1-Stop,0.9182000160217285
+Hungarian Grand Prix,XGBoost,0.3,0.55,38,0.3,1.151,Stay Out,1.5163999795913696
+Hungarian Grand Prix,XGBoost,0.3,0.65,45,0.1,2.6908,Stay Out,2.912100076675415
+Hungarian Grand Prix,XGBoost,0.5,0.25,17,0.4667,2.7385,Late 1-Stop,1.3559999465942383
+Hungarian Grand Prix,XGBoost,0.5,0.35,24,0.4333,3.2272,Late 1-Stop,2.0727999210357666
+Hungarian Grand Prix,XGBoost,0.5,0.45,31,0.5,2.7686,Mid 1-Stop,0.9182000160217285
+Hungarian Grand Prix,XGBoost,0.5,0.55,38,0.6,2.7121,Stay Out,1.5163999795913696
+Hungarian Grand Prix,XGBoost,0.5,0.65,45,0.2667,3.3458,Stay Out,2.912100076675415
+Hungarian Grand Prix,XGBoost,0.75,0.25,17,0.3667,4.6303,Late 1-Stop,1.3559999465942383
+Hungarian Grand Prix,XGBoost,0.75,0.35,24,0.5333,3.328,Late 1-Stop,2.0727999210357666
+Hungarian Grand Prix,XGBoost,0.75,0.45,31,0.5667,4.539,Mid 1-Stop,0.9182000160217285
+Hungarian Grand Prix,XGBoost,0.75,0.55,38,0.4667,2.6011,Stay Out,1.5163999795913696
+Hungarian Grand Prix,XGBoost,0.75,0.65,45,0.4333,3.1207,Stay Out,2.912100076675415
+Hungarian Grand Prix,XGBoost,1.0,0.25,17,0.5667,5.6254,Late 1-Stop,1.3559999465942383
+Hungarian Grand Prix,XGBoost,1.0,0.35,24,0.5333,4.8752,Late 1-Stop,2.0727999210357666
+Hungarian Grand Prix,XGBoost,1.0,0.45,31,0.8,4.0999,Mid 1-Stop,0.9182000160217285
+Hungarian Grand Prix,XGBoost,1.0,0.55,38,0.5667,5.1568,Stay Out,1.5163999795913696
+Hungarian Grand Prix,XGBoost,1.0,0.65,45,0.4667,3.9435,Stay Out,2.912100076675415
+Hungarian Grand Prix,XGBoost,1.5,0.25,17,0.6667,6.9713,Late 1-Stop,1.3559999465942383
+Hungarian Grand Prix,XGBoost,1.5,0.35,24,0.8333,9.0236,Late 1-Stop,2.0727999210357666
+Hungarian Grand Prix,XGBoost,1.5,0.45,31,0.7667,7.1218,Mid 1-Stop,0.9182000160217285
+Hungarian Grand Prix,XGBoost,1.5,0.55,38,0.7,4.6578,Stay Out,1.5163999795913696
+Hungarian Grand Prix,XGBoost,1.5,0.65,45,0.5,6.886,Stay Out,2.912100076675415
+Hungarian Grand Prix,XGBoost,2.0,0.25,17,0.7,12.2752,Late 1-Stop,1.3559999465942383
+Hungarian Grand Prix,XGBoost,2.0,0.35,24,0.7,10.8639,Late 1-Stop,2.0727999210357666
+Hungarian Grand Prix,XGBoost,2.0,0.45,31,0.6667,10.225,Mid 1-Stop,0.9182000160217285
+Hungarian Grand Prix,XGBoost,2.0,0.55,38,0.6667,6.8346,Stay Out,1.5163999795913696
+Hungarian Grand Prix,XGBoost,2.0,0.65,45,0.5333,5.7468,Stay Out,2.912100076675415

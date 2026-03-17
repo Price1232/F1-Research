@@ -1,0 +1,109 @@
+Circuit,Split,Train_years,Test_year,Model,MAE,RMSE,R2,N_train,N_test
+Bahrain Grand Prix,2022->2023,[2022],[2023],Naive (compound mean),1.6894,3.3445,-0.0147,1004,953
+Bahrain Grand Prix,2022->2023,[2022],[2023],Linear Regression,12.8165,14.1088,-17.0573,1004,953
+Bahrain Grand Prix,2022->2023,[2022],[2023],Ridge Regression,12.5688,13.7576,-16.1694,1004,953
+Bahrain Grand Prix,2022->2023,[2022],[2023],Random Forest,3.8018,8.5853,-5.6863,1004,953
+Bahrain Grand Prix,2022->2023,[2022],[2023],Gradient Boosting,3.7539,7.7779,-4.4877,1004,953
+Bahrain Grand Prix,2022->2023,[2022],[2023],XGBoost,3.3922,7.5584,-4.1824,1004,953
+Bahrain Grand Prix,2023->2024,[2023],[2024],Naive (compound mean),1.6147,2.058,-0.6734,953,1043
+Bahrain Grand Prix,2023->2024,[2023],[2024],Linear Regression,29.1413,29.1986,-335.8397,953,1043
+Bahrain Grand Prix,2023->2024,[2023],[2024],Ridge Regression,24.8535,24.9127,-244.2129,953,1043
+Bahrain Grand Prix,2023->2024,[2023],[2024],Random Forest,1.7778,3.009,-2.5773,953,1043
+Bahrain Grand Prix,2023->2024,[2023],[2024],Gradient Boosting,1.2428,2.5804,-1.6308,953,1043
+Bahrain Grand Prix,2023->2024,[2023],[2024],XGBoost,1.3674,2.8214,-2.1451,953,1043
+Bahrain Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Naive (compound mean),1.8383,2.2519,-1.0035,1957,1043
+Bahrain Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Linear Regression,22.2565,22.3744,-196.7896,1957,1043
+Bahrain Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Ridge Regression,18.9114,19.0429,-142.2736,1957,1043
+Bahrain Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Random Forest,8.0662,10.7774,-44.891,1957,1043
+Bahrain Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Gradient Boosting,11.9032,14.6616,-83.9302,1957,1043
+Bahrain Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],XGBoost,10.1778,13.2225,-68.0763,1957,1043
+Spanish Grand Prix,2022->2023,[2022],[2023],Naive (compound mean),8.9239,9.0477,-30.9835,1122,1224
+Spanish Grand Prix,2022->2023,[2022],[2023],Linear Regression,35.0346,35.0968,-480.2603,1122,1224
+Spanish Grand Prix,2022->2023,[2022],[2023],Ridge Regression,35.0432,35.105,-480.485,1122,1224
+Spanish Grand Prix,2022->2023,[2022],[2023],Random Forest,8.9635,9.0229,-30.8082,1122,1224
+Spanish Grand Prix,2022->2023,[2022],[2023],Gradient Boosting,8.9773,9.0471,-30.979,1122,1224
+Spanish Grand Prix,2022->2023,[2022],[2023],XGBoost,8.9044,8.9709,-30.4428,1122,1224
+Spanish Grand Prix,2023->2024,[2023],[2024],Naive (compound mean),1.1893,1.6949,-0.0873,1224,1225
+Spanish Grand Prix,2023->2024,[2023],[2024],Linear Regression,5.2042,5.3932,-10.0086,1224,1225
+Spanish Grand Prix,2023->2024,[2023],[2024],Ridge Regression,4.9881,5.1722,-9.1247,1224,1225
+Spanish Grand Prix,2023->2024,[2023],[2024],Random Forest,0.6723,1.0155,0.6097,1224,1225
+Spanish Grand Prix,2023->2024,[2023],[2024],Gradient Boosting,0.6341,0.9606,0.6507,1224,1225
+Spanish Grand Prix,2023->2024,[2023],[2024],XGBoost,0.6335,0.9628,0.6492,1224,1225
+Spanish Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Naive (compound mean),4.9927,5.7784,-11.6369,2346,1225
+Spanish Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Linear Regression,3.8462,3.981,-4.998,2346,1225
+Spanish Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Ridge Regression,3.3783,3.5176,-3.683,2346,1225
+Spanish Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Random Forest,4.7563,5.1284,-8.9541,2346,1225
+Spanish Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Gradient Boosting,4.2115,4.5857,-6.9588,2346,1225
+Spanish Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],XGBoost,4.555,4.7502,-7.5398,2346,1225
+British Grand Prix,2022->2023,[2022],[2023],Naive (compound mean),5.5261,13.8798,-0.0694,698,920
+British Grand Prix,2022->2023,[2022],[2023],Linear Regression,8.1289,14.6448,-0.1905,698,920
+British Grand Prix,2022->2023,[2022],[2023],Ridge Regression,8.1103,14.6239,-0.1871,698,920
+British Grand Prix,2022->2023,[2022],[2023],Random Forest,10.2598,16.8421,-0.5745,698,920
+British Grand Prix,2022->2023,[2022],[2023],Gradient Boosting,11.4406,18.2735,-0.8536,698,920
+British Grand Prix,2022->2023,[2022],[2023],XGBoost,12.6798,19.1706,-1.04,698,920
+British Grand Prix,2023->2024,[2023],[2024],Naive (compound mean),2.1627,3.1434,0.0299,920,680
+British Grand Prix,2023->2024,[2023],[2024],Linear Regression,52.3305,54.1843,-287.2683,920,680
+British Grand Prix,2023->2024,[2023],[2024],Ridge Regression,52.187,54.0312,-285.6418,920,680
+British Grand Prix,2023->2024,[2023],[2024],Random Forest,2.4014,3.3449,-0.0986,920,680
+British Grand Prix,2023->2024,[2023],[2024],Gradient Boosting,2.1005,3.0829,0.0668,920,680
+British Grand Prix,2023->2024,[2023],[2024],XGBoost,1.9374,2.921,0.1623,920,680
+British Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Naive (compound mean),2.318,3.1938,-0.0015,1618,680
+British Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Linear Regression,9.339,11.1629,-11.235,1618,680
+British Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Ridge Regression,9.3305,11.169,-11.2484,1618,680
+British Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Random Forest,3.965,6.3051,-2.9033,1618,680
+British Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Gradient Boosting,3.9168,6.5637,-3.2301,1618,680
+British Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],XGBoost,3.3317,4.5509,-1.0335,1618,680
+Italian Grand Prix,2022->2023,[2022],[2023],Naive (compound mean),0.7639,1.1967,-0.0391,911,897
+Italian Grand Prix,2022->2023,[2022],[2023],Linear Regression,13.7461,16.1265,-187.683,911,897
+Italian Grand Prix,2022->2023,[2022],[2023],Ridge Regression,13.5424,15.8467,-181.1924,911,897
+Italian Grand Prix,2022->2023,[2022],[2023],Random Forest,3.6586,7.7934,-43.0661,911,897
+Italian Grand Prix,2022->2023,[2022],[2023],Gradient Boosting,4.4975,8.2444,-48.3145,911,897
+Italian Grand Prix,2022->2023,[2022],[2023],XGBoost,4.0874,7.7221,-42.2637,911,897
+Italian Grand Prix,2023->2024,[2023],[2024],Naive (compound mean),2.2924,2.6526,-1.3038,897,947
+Italian Grand Prix,2023->2024,[2023],[2024],Linear Regression,1.369,1.8365,-0.1042,897,947
+Italian Grand Prix,2023->2024,[2023],[2024],Ridge Regression,1.3523,1.8253,-0.0908,897,947
+Italian Grand Prix,2023->2024,[2023],[2024],Random Forest,2.1521,2.3478,-0.8047,897,947
+Italian Grand Prix,2023->2024,[2023],[2024],Gradient Boosting,2.052,2.2512,-0.6593,897,947
+Italian Grand Prix,2023->2024,[2023],[2024],XGBoost,2.1584,2.3771,-0.8501,897,947
+Italian Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Naive (compound mean),2.4199,2.7522,-1.48,1808,947
+Italian Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Linear Regression,23.1349,23.7674,-183.9476,1808,947
+Italian Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Ridge Regression,3.3936,4.1332,-4.5932,1808,947
+Italian Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Random Forest,3.7761,4.4691,-5.5393,1808,947
+Italian Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Gradient Boosting,3.8026,5.2931,-8.1728,1808,947
+Italian Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],XGBoost,3.8974,6.0218,-10.8726,1808,947
+Monaco Grand Prix,2022->2023,[2022],[2023],Naive (compound mean),1.7388,3.7151,-0.0332,570,1024
+Monaco Grand Prix,2022->2023,[2022],[2023],Linear Regression,10.913,15.1541,-16.1904,570,1024
+Monaco Grand Prix,2022->2023,[2022],[2023],Ridge Regression,14.3136,16.5029,-19.3867,570,1024
+Monaco Grand Prix,2022->2023,[2022],[2023],Random Forest,18.8844,23.4956,-40.3236,570,1024
+Monaco Grand Prix,2022->2023,[2022],[2023],Gradient Boosting,17.7367,22.3054,-36.2429,570,1024
+Monaco Grand Prix,2022->2023,[2022],[2023],XGBoost,14.5439,18.5165,-24.665,570,1024
+Monaco Grand Prix,2023->2024,[2023],[2024],Naive (compound mean),1.8556,2.4049,-0.207,1024,1187
+Monaco Grand Prix,2023->2024,[2023],[2024],Linear Regression,32.8842,32.9773,-225.953,1024,1187
+Monaco Grand Prix,2023->2024,[2023],[2024],Ridge Regression,32.9538,33.0462,-226.9016,1024,1187
+Monaco Grand Prix,2023->2024,[2023],[2024],Random Forest,1.6008,2.0594,0.1149,1024,1187
+Monaco Grand Prix,2023->2024,[2023],[2024],Gradient Boosting,3.3276,4.3476,-2.9445,1024,1187
+Monaco Grand Prix,2023->2024,[2023],[2024],XGBoost,2.4943,3.6104,-1.7203,1024,1187
+Monaco Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Naive (compound mean),1.8155,2.3608,-0.1631,1594,1187
+Monaco Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Linear Regression,648.4598,648.4845,-87760.6024,1594,1187
+Monaco Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Ridge Regression,918.8442,918.8489,-176194.0063,1594,1187
+Monaco Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Random Forest,5.4046,9.0031,-15.9157,1594,1187
+Monaco Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Gradient Boosting,3.3108,4.4081,-3.0552,1594,1187
+Monaco Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],XGBoost,2.5867,3.2012,-1.1386,1594,1187
+Hungarian Grand Prix,2022->2023,[2022],[2023],Naive (compound mean),1.1099,1.764,-0.0128,1297,1177
+Hungarian Grand Prix,2022->2023,[2022],[2023],Linear Regression,26.7611,27.0292,-236.7911,1297,1177
+Hungarian Grand Prix,2022->2023,[2022],[2023],Ridge Regression,26.6342,26.9013,-234.5468,1297,1177
+Hungarian Grand Prix,2022->2023,[2022],[2023],Random Forest,1.8509,4.6171,-5.9385,1297,1177
+Hungarian Grand Prix,2022->2023,[2022],[2023],Gradient Boosting,2.055,5.416,-8.5476,1297,1177
+Hungarian Grand Prix,2022->2023,[2022],[2023],XGBoost,2.0659,5.482,-8.7815,1297,1177
+Hungarian Grand Prix,2023->2024,[2023],[2024],Naive (compound mean),1.1499,1.7309,0.0219,1177,1273
+Hungarian Grand Prix,2023->2024,[2023],[2024],Linear Regression,2.5625,5.005,-7.1786,1177,1273
+Hungarian Grand Prix,2023->2024,[2023],[2024],Ridge Regression,2.1539,3.6396,-3.3249,1177,1273
+Hungarian Grand Prix,2023->2024,[2023],[2024],Random Forest,0.7938,1.187,0.54,1177,1273
+Hungarian Grand Prix,2023->2024,[2023],[2024],Gradient Boosting,0.7052,1.0252,0.6568,1177,1273
+Hungarian Grand Prix,2023->2024,[2023],[2024],XGBoost,0.676,0.9535,0.7031,1177,1273
+Hungarian Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Naive (compound mean),1.1799,1.7507,-0.0007,2474,1273
+Hungarian Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Linear Regression,454.3711,454.3886,-67408.0689,2474,1273
+Hungarian Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Ridge Regression,332.0882,332.1047,-36008.1947,2474,1273
+Hungarian Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Random Forest,0.8262,1.1464,0.5709,2474,1273
+Hungarian Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],Gradient Boosting,0.7463,1.0604,0.6329,2474,1273
+Hungarian Grand Prix,2022+2023->2024,"[2022, 2023]",[2024],XGBoost,0.731,1.0241,0.6576,2474,1273
