@@ -19,6 +19,13 @@ We introduce the **strategic error threshold** — the minimum lap time predicti
 - Circuit type is the primary determinant of whether model choice matters strategically
 
 ---
+## 📊 Key Results
+
+### Model Performance (MAE)
+
+![MAE Plot](figures/fig1_mae_comparison.png)
+
+---
 
 ## Repository structure
 
