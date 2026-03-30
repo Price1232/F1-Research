@@ -2,8 +2,7 @@
 
 **Priyanshu Nayak • Vidita Nayak**
 
-> Preprint: [ADD ARXIV LINK WHEN PUBLISHED]
-
+> Preprint: 📄 Research Paper: https://doi.org/10.5281/zenodo.19340386
 ---
 
 ## Overview
